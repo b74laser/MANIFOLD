@@ -136373,6 +136373,125 @@
       "reading": 161.0,
       "rotate_180": true,
       "timestamp": "2026-04-16T21:04:30"
+    },
+    "21:04:45": {
+      "calibration_points": [
+        {
+          "angle_deg": 208.0,
+          "label": "0",
+          "reading": 0.0
+        },
+        {
+          "angle_deg": 191.0,
+          "label": "10",
+          "reading": 10.0
+        },
+        {
+          "angle_deg": 176.0,
+          "label": "20",
+          "reading": 20.0
+        },
+        {
+          "angle_deg": 160.0,
+          "label": "30",
+          "reading": 30.0
+        },
+        {
+          "angle_deg": 147.0,
+          "label": "40",
+          "reading": 40.0
+        },
+        {
+          "angle_deg": 130.0,
+          "label": "50",
+          "reading": 50.0
+        },
+        {
+          "angle_deg": 117.0,
+          "label": "60",
+          "reading": 60.0
+        },
+        {
+          "angle_deg": 100.0,
+          "label": "70",
+          "reading": 70.0
+        },
+        {
+          "angle_deg": 85.0,
+          "label": "80",
+          "reading": 80.0
+        },
+        {
+          "angle_deg": 69.0,
+          "label": "90",
+          "reading": 90.0
+        },
+        {
+          "angle_deg": 53.0,
+          "label": "100",
+          "reading": 100.0
+        },
+        {
+          "angle_deg": 35.0,
+          "label": "110",
+          "reading": 110.0
+        },
+        {
+          "angle_deg": 18.0,
+          "label": "120",
+          "reading": 120.0
+        },
+        {
+          "angle_deg": 3.0,
+          "label": "130",
+          "reading": 130.0
+        },
+        {
+          "angle_deg": -11.0,
+          "label": "140",
+          "reading": 140.0
+        },
+        {
+          "angle_deg": -28.0,
+          "label": "150",
+          "reading": 150.0
+        },
+        {
+          "angle_deg": -44.0,
+          "label": "161",
+          "reading": 161.0
+        }
+      ],
+      "camera_port": 0,
+      "confidence": 0.7373749298749298,
+      "crop": {
+        "size": 300,
+        "x": 48,
+        "y": 94
+      },
+      "detection": {
+        "blur_ksize": 5,
+        "dark_threshold": 80,
+        "scan_inner_frac": 0.18,
+        "scan_outer_frac": 0.92
+      },
+      "gauge_center": {
+        "x": 150,
+        "y": 150
+      },
+      "needle_angle_deg": -130.0,
+      "needle_angle_deg_360": 230.0,
+      "paths": {
+        "crop_image": "C:\\Users\\b74\\Desktop\\DABL_LOGS\\GAUGE_data\\latest_crop.jpg",
+        "crop_overlay": "C:\\Users\\b74\\Desktop\\DABL_LOGS\\GAUGE_data\\latest_crop_overlay.jpg",
+        "full_image": "C:\\Users\\b74\\Desktop\\DABL_LOGS\\GAUGE_data\\latest_frame.jpg",
+        "full_overlay": "C:\\Users\\b74\\Desktop\\DABL_LOGS\\GAUGE_data\\latest_frame_overlay.jpg",
+        "mask": "C:\\Users\\b74\\Desktop\\DABL_LOGS\\GAUGE_data\\latest_mask.png"
+      },
+      "radius": 120,
+      "reading": 161.0,
+      "rotate_180": true,
+      "timestamp": "2026-04-16T21:04:45"
     }
   }
 }
