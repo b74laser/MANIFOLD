@@ -7927,5 +7927,12 @@
       "needle_angle_deg": -21.0,
       "reading": 145.882
     }
+  },
+  "2026-04-29": {
+    "00:02:01": {
+      "confidence": 0.02504,
+      "needle_angle_deg": -20.0,
+      "reading": 145.294
+    }
   }
 }
