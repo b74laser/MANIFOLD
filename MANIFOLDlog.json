@@ -24945,5 +24945,12 @@
       "needle_angle_deg": 122.0,
       "reading": 56.154
     }
+  },
+  "2026-05-23": {
+    "00:09:57": {
+      "confidence": 0.13413,
+      "needle_angle_deg": 121.0,
+      "reading": 56.923
+    }
   }
 }
