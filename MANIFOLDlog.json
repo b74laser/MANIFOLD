@@ -37696,5 +37696,12 @@
       "needle_angle_deg": 49.0,
       "reading": 102.222
     }
+  },
+  "2026-06-10": {
+    "00:06:08": {
+      "confidence": 0.984,
+      "needle_angle_deg": -131.0,
+      "reading": 0.0
+    }
   }
 }
