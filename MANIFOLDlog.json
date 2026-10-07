@@ -67101,6 +67101,136 @@
       "confidence": 4.3637,
       "needle_angle_deg": 165.994,
       "reading": 30.774
+    },
+    "11:06:54": {
+      "confidence": 4.36812,
+      "needle_angle_deg": 165.048,
+      "reading": 31.501
+    },
+    "11:07:31": {
+      "confidence": 4.35583,
+      "needle_angle_deg": 165.039,
+      "reading": 31.508
+    },
+    "11:07:54": {
+      "confidence": 4.3678,
+      "needle_angle_deg": 165.04,
+      "reading": 31.507
+    },
+    "11:08:16": {
+      "confidence": 4.36507,
+      "needle_angle_deg": 165.049,
+      "reading": 31.501
+    },
+    "11:08:38": {
+      "confidence": 4.36507,
+      "needle_angle_deg": 165.049,
+      "reading": 31.5
+    },
+    "11:08:58": {
+      "confidence": 4.36365,
+      "needle_angle_deg": 165.994,
+      "reading": 30.774
+    },
+    "11:09:20": {
+      "confidence": 4.36884,
+      "needle_angle_deg": 165.047,
+      "reading": 31.502
+    },
+    "11:09:43": {
+      "confidence": 4.36821,
+      "needle_angle_deg": 165.995,
+      "reading": 30.773
+    },
+    "11:10:06": {
+      "confidence": 4.36604,
+      "needle_angle_deg": 165.045,
+      "reading": 31.504
+    },
+    "11:10:28": {
+      "confidence": 4.36507,
+      "needle_angle_deg": 165.044,
+      "reading": 31.505
+    },
+    "11:10:55": {
+      "confidence": 4.36714,
+      "needle_angle_deg": 165.049,
+      "reading": 31.501
+    },
+    "11:11:19": {
+      "confidence": 4.36507,
+      "needle_angle_deg": 165.044,
+      "reading": 31.504
+    },
+    "11:11:43": {
+      "confidence": 4.36581,
+      "needle_angle_deg": 165.039,
+      "reading": 31.509
+    },
+    "11:12:06": {
+      "confidence": 4.36679,
+      "needle_angle_deg": 165.04,
+      "reading": 31.508
+    },
+    "11:12:28": {
+      "confidence": 4.36507,
+      "needle_angle_deg": 165.043,
+      "reading": 31.506
+    },
+    "11:12:46": {
+      "confidence": 4.36463,
+      "needle_angle_deg": 165.04,
+      "reading": 31.508
+    },
+    "11:13:09": {
+      "confidence": 4.36604,
+      "needle_angle_deg": 165.045,
+      "reading": 31.504
+    },
+    "11:13:31": {
+      "confidence": 4.36666,
+      "needle_angle_deg": 165.038,
+      "reading": 31.509
+    },
+    "11:13:50": {
+      "confidence": 4.36507,
+      "needle_angle_deg": 165.041,
+      "reading": 31.507
+    },
+    "11:14:13": {
+      "confidence": 4.36799,
+      "needle_angle_deg": 165.044,
+      "reading": 31.505
+    },
+    "11:14:33": {
+      "confidence": 4.36484,
+      "needle_angle_deg": 165.046,
+      "reading": 31.503
+    },
+    "11:14:55": {
+      "confidence": 4.36436,
+      "needle_angle_deg": 165.05,
+      "reading": 31.5
+    },
+    "11:15:15": {
+      "confidence": 4.36604,
+      "needle_angle_deg": 165.043,
+      "reading": 31.505
+    },
+    "11:15:36": {
+      "confidence": 4.36428,
+      "needle_angle_deg": 165.995,
+      "reading": 30.773
+    },
+    "11:16:02": {
+      "confidence": 4.36604,
+      "needle_angle_deg": 165.045,
+      "reading": 31.504
+    },
+    "11:16:24": {
+      "confidence": 4.36507,
+      "needle_angle_deg": 165.044,
+      "reading": 31.505
     }
   }
 }
