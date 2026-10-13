@@ -215903,6 +215903,16 @@
       "confidence": 4.35498,
       "needle_angle_deg": 168.997,
       "reading": 27.781
+    },
+    "05:00:19": {
+      "confidence": 4.34395,
+      "needle_angle_deg": 169.002,
+      "reading": 27.776
+    },
+    "05:00:43": {
+      "confidence": 4.34356,
+      "needle_angle_deg": 169.0,
+      "reading": 27.778
     }
   }
 }
