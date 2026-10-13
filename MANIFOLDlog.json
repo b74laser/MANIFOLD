@@ -217543,6 +217543,16 @@
       "confidence": 4.35325,
       "needle_angle_deg": 168.036,
       "reading": 28.848
+    },
+    "06:37:19": {
+      "confidence": 4.35082,
+      "needle_angle_deg": 168.03,
+      "reading": 28.856
+    },
+    "06:37:42": {
+      "confidence": 4.35056,
+      "needle_angle_deg": 168.037,
+      "reading": 28.848
     }
   }
 }
