@@ -214878,6 +214878,21 @@
       "confidence": 4.35462,
       "needle_angle_deg": 168.03,
       "reading": 28.855
+    },
+    "03:59:27": {
+      "confidence": 4.35639,
+      "needle_angle_deg": 168.033,
+      "reading": 28.852
+    },
+    "03:59:51": {
+      "confidence": 4.35462,
+      "needle_angle_deg": 168.025,
+      "reading": 28.861
+    },
+    "04:00:15": {
+      "confidence": 4.35462,
+      "needle_angle_deg": 168.032,
+      "reading": 28.854
     }
   }
 }
