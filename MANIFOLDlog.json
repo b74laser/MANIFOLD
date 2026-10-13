@@ -212858,6 +212858,16 @@
       "confidence": 4.35858,
       "needle_angle_deg": 168.983,
       "reading": 27.796
+    },
+    "02:01:02": {
+      "confidence": 4.35453,
+      "needle_angle_deg": 168.985,
+      "reading": 27.794
+    },
+    "02:01:26": {
+      "confidence": 4.35219,
+      "needle_angle_deg": 168.99,
+      "reading": 27.789
     }
   }
 }
