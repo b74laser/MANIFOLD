@@ -211353,6 +211353,16 @@
       "confidence": 4.35426,
       "needle_angle_deg": 168.991,
       "reading": 27.788
+    },
+    "00:33:21": {
+      "confidence": 4.35639,
+      "needle_angle_deg": 168.036,
+      "reading": 28.848
+    },
+    "00:33:45": {
+      "confidence": 4.35586,
+      "needle_angle_deg": 168.983,
+      "reading": 27.797
     }
   }
 }
