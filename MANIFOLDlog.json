@@ -228953,6 +228953,16 @@
       "confidence": 4.34314,
       "needle_angle_deg": 169.008,
       "reading": 27.769
+    },
+    "18:05:05": {
+      "confidence": 4.34184,
+      "needle_angle_deg": 169.008,
+      "reading": 27.769
+    },
+    "18:05:28": {
+      "confidence": 4.34175,
+      "needle_angle_deg": 169.011,
+      "reading": 27.766
     }
   }
 }
