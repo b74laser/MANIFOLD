@@ -292919,6 +292919,11 @@
       "confidence": 4.08937,
       "needle_angle_deg": 166.401,
       "reading": 30.461
+    },
+    "09:30:30": {
+      "confidence": 4.06782,
+      "needle_angle_deg": 166.373,
+      "reading": 30.482
     }
   }
 }
