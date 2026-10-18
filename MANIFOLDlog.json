@@ -341768,6 +341768,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "10:39:38": {
+      "confidence": 0.70551,
+      "needle_angle_deg": 105.264,
+      "reading": 66.904
     }
   }
 }
