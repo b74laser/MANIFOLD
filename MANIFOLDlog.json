@@ -336328,6 +336328,11 @@
       "confidence": 0.50502,
       "needle_angle_deg": -119.484,
       "reading": 0.0
+    },
+    "05:00:30": {
+      "confidence": 3.96662,
+      "needle_angle_deg": 166.99,
+      "reading": 30.007
     }
   }
 }
