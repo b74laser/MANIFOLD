@@ -340528,6 +340528,11 @@
       "confidence": 0.74642,
       "needle_angle_deg": -120.656,
       "reading": 0.0
+    },
+    "09:22:32": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
