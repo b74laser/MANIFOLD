@@ -334743,6 +334743,11 @@
       "confidence": 0.66478,
       "needle_angle_deg": 106.753,
       "reading": 66.027
+    },
+    "03:21:08": {
+      "confidence": 0.42936,
+      "needle_angle_deg": -123.774,
+      "reading": 0.0
     }
   }
 }
