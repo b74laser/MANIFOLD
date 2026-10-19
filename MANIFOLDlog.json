@@ -363620,6 +363620,11 @@
       "confidence": 3.95531,
       "needle_angle_deg": -75.201,
       "reading": 161.0
+    },
+    "09:30:01": {
+      "confidence": 3.97661,
+      "needle_angle_deg": -3.687,
+      "reading": 134.777
     }
   }
 }
