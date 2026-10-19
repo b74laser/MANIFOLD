@@ -366570,6 +366570,11 @@
       "confidence": 0.61424,
       "needle_angle_deg": -42.968,
       "reading": 160.29
+    },
+    "12:41:01": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
