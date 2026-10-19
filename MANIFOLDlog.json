@@ -355770,6 +355770,11 @@
       "confidence": 0.47099,
       "needle_angle_deg": 141.673,
       "reading": 45.136
+    },
+    "01:13:00": {
+      "confidence": 4.00272,
+      "needle_angle_deg": -43.905,
+      "reading": 160.935
     }
   }
 }
