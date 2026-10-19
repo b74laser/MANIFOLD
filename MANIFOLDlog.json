@@ -353463,6 +353463,11 @@
       "confidence": 0.42501,
       "needle_angle_deg": 179.736,
       "reading": 17.509
+    },
+    "22:48:53": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
