@@ -372760,6 +372760,11 @@
       "confidence": 4.01021,
       "needle_angle_deg": 105.263,
       "reading": 66.904
+    },
+    "19:17:23": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
