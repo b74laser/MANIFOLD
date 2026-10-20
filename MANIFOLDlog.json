@@ -382012,6 +382012,11 @@
       "confidence": 3.97882,
       "needle_angle_deg": -0.33,
       "reading": 132.379
+    },
+    "05:01:52": {
+      "confidence": 3.58634,
+      "needle_angle_deg": 102.0,
+      "reading": 68.824
     }
   }
 }
