@@ -380122,6 +380122,11 @@
       "confidence": 3.84256,
       "needle_angle_deg": 176.365,
       "reading": 19.756
+    },
+    "03:02:12": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
