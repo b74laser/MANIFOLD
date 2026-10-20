@@ -376340,6 +376340,11 @@
       "confidence": 3.81681,
       "needle_angle_deg": 70.738,
       "reading": 88.914
+    },
+    "23:04:26": {
+      "confidence": 3.77919,
+      "needle_angle_deg": -90.0,
+      "reading": 161.0
     }
   }
 }
