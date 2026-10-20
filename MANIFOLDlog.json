@@ -376580,6 +376580,11 @@
       "confidence": 0.49592,
       "needle_angle_deg": 6.085,
       "reading": 127.943
+    },
+    "23:19:26": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
