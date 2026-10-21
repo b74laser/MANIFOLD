@@ -397312,6 +397312,11 @@
       "confidence": 4.13164,
       "needle_angle_deg": 91.231,
       "reading": 75.846
+    },
+    "21:25:25": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
