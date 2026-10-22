@@ -431936,6 +431936,11 @@
       "confidence": 3.94137,
       "needle_angle_deg": 173.643,
       "reading": 22.619
+    },
+    "10:45:55": {
+      "confidence": 3.58,
+      "needle_angle_deg": -44.0,
+      "reading": 161.0
     }
   }
 }
