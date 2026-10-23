@@ -444888,6 +444888,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "01:02:01": {
+      "confidence": 0.69019,
+      "needle_angle_deg": 38.043,
+      "reading": 108.309
     }
   }
 }
