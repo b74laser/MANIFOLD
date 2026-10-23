@@ -441806,6 +441806,11 @@
       "confidence": 0.49795,
       "needle_angle_deg": -137.303,
       "reading": 0.0
+    },
+    "21:44:45": {
+      "confidence": 0.61563,
+      "needle_angle_deg": 90.0,
+      "reading": 76.667
     }
   }
 }
