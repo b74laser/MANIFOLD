@@ -445883,6 +445883,11 @@
       "confidence": 0.58464,
       "needle_angle_deg": 22.772,
       "reading": 117.193
+    },
+    "02:05:24": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
