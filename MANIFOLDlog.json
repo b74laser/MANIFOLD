@@ -467170,6 +467170,11 @@
       "confidence": 0.46533,
       "needle_angle_deg": 34.642,
       "reading": 110.211
+    },
+    "01:16:11": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
