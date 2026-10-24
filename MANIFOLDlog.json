@@ -478070,6 +478070,11 @@
       "confidence": 0.36725,
       "needle_angle_deg": 59.112,
       "reading": 96.18
+    },
+    "13:00:20": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
