@@ -493652,6 +493652,11 @@
       "confidence": 3.80787,
       "needle_angle_deg": 90.812,
       "reading": 76.126
+    },
+    "05:54:16": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
