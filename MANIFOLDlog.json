@@ -492022,6 +492022,11 @@
       "confidence": 0.66906,
       "needle_angle_deg": -164.014,
       "reading": 7.067
+    },
+    "04:08:06": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
