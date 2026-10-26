@@ -521844,6 +521844,11 @@
       "confidence": 0.36715,
       "needle_angle_deg": -90.852,
       "reading": 161.0
+    },
+    "13:00:11": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
