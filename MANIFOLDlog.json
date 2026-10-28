@@ -557513,6 +557513,11 @@
       "confidence": 3.91588,
       "needle_angle_deg": -5.423,
       "reading": 136.016
+    },
+    "05:13:38": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
