@@ -566383,6 +566383,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "15:23:49": {
+      "confidence": 3.95779,
+      "needle_angle_deg": 162.046,
+      "reading": 33.81
     }
   }
 }
