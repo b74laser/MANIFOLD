@@ -568973,6 +568973,11 @@
       "confidence": 0.68064,
       "needle_angle_deg": 143.099,
       "reading": 44.542
+    },
+    "18:21:30": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
