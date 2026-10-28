@@ -564973,6 +564973,11 @@
       "confidence": 0.48049,
       "needle_angle_deg": 153.1,
       "reading": 40.375
+    },
+    "13:45:52": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
