@@ -570343,6 +570343,11 @@
       "confidence": 0.6117,
       "needle_angle_deg": 27.144,
       "reading": 114.621
+    },
+    "19:55:30": {
+      "confidence": 0.98213,
+      "needle_angle_deg": -145.594,
+      "reading": 0.0
     }
   }
 }
