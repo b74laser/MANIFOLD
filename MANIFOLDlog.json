@@ -587070,6 +587070,11 @@
       "confidence": 0.74815,
       "needle_angle_deg": 105.778,
       "reading": 66.601
+    },
+    "15:18:15": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
