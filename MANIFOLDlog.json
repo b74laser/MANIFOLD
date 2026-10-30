@@ -604737,6 +604737,11 @@
       "confidence": 0.36689,
       "needle_angle_deg": -60.876,
       "reading": 161.0
+    },
+    "11:25:30": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
