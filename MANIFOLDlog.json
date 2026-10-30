@@ -602877,6 +602877,11 @@
       "confidence": 0.53575,
       "needle_angle_deg": -31.967,
       "reading": 152.727
+    },
+    "09:12:22": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
