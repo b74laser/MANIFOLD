@@ -664163,6 +664163,11 @@
       "confidence": 0.78977,
       "needle_angle_deg": -172.856,
       "reading": 12.57
+    },
+    "06:18:50": {
+      "confidence": 1.0375,
+      "needle_angle_deg": -42.006,
+      "reading": 159.629
     }
   }
 }
