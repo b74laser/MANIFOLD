@@ -662643,6 +662643,11 @@
       "confidence": 0.17266,
       "needle_angle_deg": 2.025,
       "reading": 130.696
+    },
+    "04:32:40": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
