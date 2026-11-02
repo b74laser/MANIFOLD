@@ -666398,6 +666398,11 @@
       "confidence": 0.85112,
       "needle_angle_deg": 137.043,
       "reading": 47.066
+    },
+    "08:55:34": {
+      "confidence": 0.84047,
+      "needle_angle_deg": -1.336,
+      "reading": 133.097
     }
   }
 }
