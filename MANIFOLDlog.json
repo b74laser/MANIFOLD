@@ -674188,6 +674188,11 @@
       "confidence": 0.68652,
       "needle_angle_deg": 4.048,
       "reading": 129.301
+    },
+    "18:11:33": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
