@@ -694800,6 +694800,11 @@
       "confidence": 0.76089,
       "needle_angle_deg": 23.001,
       "reading": 117.058
+    },
+    "18:30:58": {
+      "confidence": 0.40444,
+      "needle_angle_deg": 132.505,
+      "reading": 48.956
     }
   }
 }
