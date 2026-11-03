@@ -691270,6 +691270,11 @@
       "confidence": 0.23752,
       "needle_angle_deg": 85.433,
       "reading": 79.711
+    },
+    "14:18:00": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
