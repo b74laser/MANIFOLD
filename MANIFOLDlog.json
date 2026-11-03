@@ -682020,6 +682020,11 @@
       "confidence": 1.10639,
       "needle_angle_deg": -27.902,
       "reading": 149.942
+    },
+    "03:15:59": {
+      "confidence": 0.67993,
+      "needle_angle_deg": 169.038,
+      "reading": 27.735
     }
   }
 }
