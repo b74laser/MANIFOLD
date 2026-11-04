@@ -701952,6 +701952,11 @@
       "confidence": 0.89699,
       "needle_angle_deg": 145.013,
       "reading": 43.745
+    },
+    "02:52:57": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
