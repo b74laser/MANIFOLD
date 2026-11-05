@@ -734809,6 +734809,56 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "18:21:45": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "18:22:14": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "18:22:41": {
+      "confidence": 0.63156,
+      "needle_angle_deg": -159.976,
+      "reading": 4.692
+    },
+    "18:23:07": {
+      "confidence": 0.6263,
+      "needle_angle_deg": -25.191,
+      "reading": 148.347
+    },
+    "18:23:32": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "18:24:00": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "18:24:28": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "18:24:55": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "18:25:19": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "18:25:43": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
