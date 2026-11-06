@@ -752566,6 +752566,116 @@
       "confidence": 0.47648,
       "needle_angle_deg": 44.027,
       "reading": 104.985
+    },
+    "15:31:17": {
+      "confidence": 0.76045,
+      "needle_angle_deg": 69.026,
+      "reading": 89.984
+    },
+    "15:31:32": {
+      "confidence": 0.64101,
+      "needle_angle_deg": -167.763,
+      "reading": 9.272
+    },
+    "15:31:46": {
+      "confidence": 0.5127,
+      "needle_angle_deg": -64.498,
+      "reading": 161.0
+    },
+    "15:32:01": {
+      "confidence": 0.49948,
+      "needle_angle_deg": 124.931,
+      "reading": 53.899
+    },
+    "15:32:16": {
+      "confidence": 0.62237,
+      "needle_angle_deg": -48.983,
+      "reading": 161.0
+    },
+    "15:32:30": {
+      "confidence": 1.12491,
+      "needle_angle_deg": 6.185,
+      "reading": 127.876
+    },
+    "15:32:45": {
+      "confidence": 1.00577,
+      "needle_angle_deg": 174.793,
+      "reading": 21.341
+    },
+    "15:33:00": {
+      "confidence": 0.90741,
+      "needle_angle_deg": 151.083,
+      "reading": 41.215
+    },
+    "15:33:15": {
+      "confidence": 1.10776,
+      "needle_angle_deg": -0.867,
+      "reading": 132.762
+    },
+    "15:33:30": {
+      "confidence": 0.64678,
+      "needle_angle_deg": 50.003,
+      "reading": 101.665
+    },
+    "15:33:45": {
+      "confidence": 0.6211,
+      "needle_angle_deg": -71.0,
+      "reading": 161.0
+    },
+    "15:34:00": {
+      "confidence": 0.72145,
+      "needle_angle_deg": 164.099,
+      "reading": 32.231
+    },
+    "15:34:15": {
+      "confidence": 0.8794,
+      "needle_angle_deg": -170.808,
+      "reading": 11.206
+    },
+    "15:34:29": {
+      "confidence": 0.61794,
+      "needle_angle_deg": -0.129,
+      "reading": 132.235
+    },
+    "15:34:44": {
+      "confidence": 0.99775,
+      "needle_angle_deg": -14.312,
+      "reading": 141.948
+    },
+    "15:35:10": {
+      "confidence": 1.13796,
+      "needle_angle_deg": -130.728,
+      "reading": 0.0
+    },
+    "15:35:24": {
+      "confidence": 0.68848,
+      "needle_angle_deg": 132.086,
+      "reading": 49.131
+    },
+    "15:35:39": {
+      "confidence": 1.17619,
+      "needle_angle_deg": -21.054,
+      "reading": 145.914
+    },
+    "15:36:05": {
+      "confidence": 1.12687,
+      "needle_angle_deg": -153.924,
+      "reading": 1.132
+    },
+    "15:36:20": {
+      "confidence": 1.85099,
+      "needle_angle_deg": -165.937,
+      "reading": 8.198
+    },
+    "15:36:46": {
+      "confidence": 0.69216,
+      "needle_angle_deg": 156.826,
+      "reading": 37.826
+    },
+    "15:37:12": {
+      "confidence": 1.48075,
+      "needle_angle_deg": 179.994,
+      "reading": 17.337
     }
   }
 }
