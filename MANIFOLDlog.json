@@ -762653,6 +762653,11 @@
       "confidence": 1.0602,
       "needle_angle_deg": 6.002,
       "reading": 127.999
+    },
+    "03:26:20": {
+      "confidence": 0.80091,
+      "needle_angle_deg": -113.882,
+      "reading": 0.0
     }
   }
 }
