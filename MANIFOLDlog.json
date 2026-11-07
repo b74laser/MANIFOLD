@@ -771203,6 +771203,11 @@
       "confidence": 1.23193,
       "needle_angle_deg": 30.303,
       "reading": 112.763
+    },
+    "13:36:45": {
+      "confidence": 0.65972,
+      "needle_angle_deg": -179.373,
+      "reading": 16.915
     }
   }
 }
