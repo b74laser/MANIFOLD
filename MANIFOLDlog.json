@@ -772553,6 +772553,11 @@
       "confidence": 4.00148,
       "needle_angle_deg": -75.937,
       "reading": 161.0
+    },
+    "15:13:49": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
