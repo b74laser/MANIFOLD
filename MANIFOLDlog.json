@@ -760443,6 +760443,11 @@
       "confidence": 0.21084,
       "needle_angle_deg": -63.0,
       "reading": 161.0
+    },
+    "00:49:43": {
+      "confidence": 0.5322,
+      "needle_angle_deg": 171.071,
+      "reading": 25.477
     }
   }
 }
