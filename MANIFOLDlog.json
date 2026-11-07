@@ -760383,6 +760383,11 @@
       "confidence": 0.76497,
       "needle_angle_deg": -2.031,
       "reading": 133.594
+    },
+    "00:45:30": {
+      "confidence": 0.67482,
+      "needle_angle_deg": -4.003,
+      "reading": 135.002
     }
   }
 }
