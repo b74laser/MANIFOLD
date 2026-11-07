@@ -775653,6 +775653,11 @@
       "confidence": 4.02376,
       "needle_angle_deg": -43.914,
       "reading": 160.941
+    },
+    "18:55:01": {
+      "confidence": 0.51301,
+      "needle_angle_deg": 90.776,
+      "reading": 76.15
     }
   }
 }
