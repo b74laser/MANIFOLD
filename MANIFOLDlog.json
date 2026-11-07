@@ -761888,6 +761888,11 @@
       "confidence": 0.67916,
       "needle_angle_deg": 22.108,
       "reading": 117.583
+    },
+    "02:32:01": {
+      "confidence": 0.60247,
+      "needle_angle_deg": -36.95,
+      "reading": 156.153
     }
   }
 }
