@@ -763443,6 +763443,11 @@
       "confidence": 0.89561,
       "needle_angle_deg": -0.027,
       "reading": 132.162
+    },
+    "04:22:50": {
+      "confidence": 0.8584,
+      "needle_angle_deg": 167.411,
+      "reading": 29.543
     }
   }
 }
