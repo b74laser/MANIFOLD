@@ -793580,6 +793580,11 @@
       "confidence": 1.53432,
       "needle_angle_deg": 39.779,
       "reading": 107.345
+    },
+    "16:16:47": {
+      "confidence": 0.67186,
+      "needle_angle_deg": -33.394,
+      "reading": 153.709
     }
   }
 }
