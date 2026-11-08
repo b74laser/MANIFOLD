@@ -780015,6 +780015,11 @@
       "confidence": 1.56259,
       "needle_angle_deg": 10.989,
       "reading": 124.674
+    },
+    "00:05:23": {
+      "confidence": 0.60742,
+      "needle_angle_deg": 172.98,
+      "reading": 23.355
     }
   }
 }
