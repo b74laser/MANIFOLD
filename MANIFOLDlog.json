@@ -780010,6 +780010,11 @@
       "confidence": 0.85863,
       "needle_angle_deg": 82.053,
       "reading": 81.842
+    },
+    "00:05:02": {
+      "confidence": 1.56259,
+      "needle_angle_deg": 10.989,
+      "reading": 124.674
     }
   }
 }
