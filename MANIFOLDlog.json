@@ -780090,6 +780090,11 @@
       "confidence": 0.44832,
       "needle_angle_deg": -164.821,
       "reading": 7.542
+    },
+    "00:10:45": {
+      "confidence": 0.42421,
+      "needle_angle_deg": 170.833,
+      "reading": 25.741
     }
   }
 }
