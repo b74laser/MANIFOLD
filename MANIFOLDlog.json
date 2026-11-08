@@ -781975,6 +781975,11 @@
       "confidence": 1.22063,
       "needle_angle_deg": -171.593,
       "reading": 11.728
+    },
+    "02:25:54": {
+      "confidence": 0.57525,
+      "needle_angle_deg": 1.198,
+      "reading": 131.287
     }
   }
 }
