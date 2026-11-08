@@ -787860,6 +787860,11 @@
       "confidence": 0.499,
       "needle_angle_deg": 2.415,
       "reading": 130.418
+    },
+    "09:25:52": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
