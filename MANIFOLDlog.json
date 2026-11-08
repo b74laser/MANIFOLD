@@ -784400,6 +784400,11 @@
       "confidence": 3.89902,
       "needle_angle_deg": -160.017,
       "reading": 4.716
+    },
+    "05:18:50": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
