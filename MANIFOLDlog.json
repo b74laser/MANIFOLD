@@ -780930,6 +780930,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "01:10:52": {
+      "confidence": 0.68874,
+      "needle_angle_deg": 27.031,
+      "reading": 114.688
     }
   }
 }
