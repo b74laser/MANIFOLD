@@ -796800,6 +796800,11 @@
       "confidence": 1.18254,
       "needle_angle_deg": 177.104,
       "reading": 19.264
+    },
+    "20:08:01": {
+      "confidence": 0.82526,
+      "needle_angle_deg": -7.718,
+      "reading": 137.656
     }
   }
 }
