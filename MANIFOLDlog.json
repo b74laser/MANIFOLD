@@ -796490,6 +796490,11 @@
       "confidence": 0.67212,
       "needle_angle_deg": 120.138,
       "reading": 57.586
+    },
+    "19:46:00": {
+      "confidence": 0.68011,
+      "needle_angle_deg": -0.008,
+      "reading": 132.149
     }
   }
 }
