@@ -796690,6 +796690,11 @@
       "confidence": 0.66303,
       "needle_angle_deg": -4.009,
       "reading": 135.006
+    },
+    "20:00:10": {
+      "confidence": 0.72615,
+      "needle_angle_deg": -161.361,
+      "reading": 5.507
     }
   }
 }
