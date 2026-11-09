@@ -800722,6 +800722,11 @@
       "confidence": 3.88295,
       "needle_angle_deg": -43.02,
       "reading": 160.326
+    },
+    "00:49:11": {
+      "confidence": 0.94574,
+      "needle_angle_deg": -0.281,
+      "reading": 132.343
     }
   }
 }
