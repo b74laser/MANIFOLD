@@ -797670,6 +797670,11 @@
       "confidence": 0.39675,
       "needle_angle_deg": 26.883,
       "reading": 114.775
+    },
+    "21:10:14": {
+      "confidence": 0.3846,
+      "needle_angle_deg": -106.501,
+      "reading": 0.0
     }
   }
 }
