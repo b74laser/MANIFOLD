@@ -797740,6 +797740,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "21:15:28": {
+      "confidence": 4.09049,
+      "needle_angle_deg": -76.089,
+      "reading": 161.0
     }
   }
 }
