@@ -866368,6 +866368,11 @@
       "confidence": 3.93164,
       "needle_angle_deg": -60.456,
       "reading": 161.0
+    },
+    "10:12:20": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
