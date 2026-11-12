@@ -873133,6 +873133,11 @@
       "confidence": 0.51981,
       "needle_angle_deg": 46.868,
       "reading": 103.407
+    },
+    "18:48:54": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
