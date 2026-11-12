@@ -865553,6 +865553,11 @@
       "confidence": 0.66845,
       "needle_angle_deg": -17.007,
       "reading": 143.534
+    },
+    "09:09:30": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
