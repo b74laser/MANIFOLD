@@ -866438,6 +866438,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "10:18:00": {
+      "confidence": 3.9874,
+      "needle_angle_deg": -173.554,
+      "reading": 13.036
     }
   }
 }
