@@ -866468,6 +866468,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "10:20:25": {
+      "confidence": 3.88756,
+      "needle_angle_deg": 90.781,
+      "reading": 76.146
     }
   }
 }
