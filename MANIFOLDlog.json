@@ -866198,6 +866198,11 @@
       "confidence": 1.25542,
       "needle_angle_deg": -144.981,
       "reading": 0.0
+    },
+    "09:59:01": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
