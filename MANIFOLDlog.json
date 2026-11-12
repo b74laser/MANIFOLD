@@ -870353,6 +870353,11 @@
       "confidence": 1.21927,
       "needle_angle_deg": 36.326,
       "reading": 109.263
+    },
+    "15:18:40": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
