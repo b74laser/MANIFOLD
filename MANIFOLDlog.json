@@ -860168,6 +860168,11 @@
       "confidence": 0.83696,
       "needle_angle_deg": 153.43,
       "reading": 40.238
+    },
+    "02:19:42": {
+      "confidence": 0.39743,
+      "needle_angle_deg": -153.032,
+      "reading": 0.607
     }
   }
 }
