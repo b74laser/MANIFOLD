@@ -866458,6 +866458,11 @@
       "confidence": 4.0025,
       "needle_angle_deg": 59.203,
       "reading": 96.123
+    },
+    "10:19:37": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
