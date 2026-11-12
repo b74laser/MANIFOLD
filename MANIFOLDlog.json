@@ -868783,6 +868783,11 @@
       "confidence": 0.60086,
       "needle_angle_deg": 170.672,
       "reading": 25.92
+    },
+    "13:20:07": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
