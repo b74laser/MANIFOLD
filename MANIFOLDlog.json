@@ -873348,6 +873348,11 @@
       "confidence": 3.96838,
       "needle_angle_deg": 16.965,
       "reading": 120.69
+    },
+    "19:05:00": {
+      "confidence": 0.72595,
+      "needle_angle_deg": 45.25,
+      "reading": 104.306
     }
   }
 }
