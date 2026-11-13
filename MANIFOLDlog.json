@@ -886180,6 +886180,11 @@
       "confidence": 0.94795,
       "needle_angle_deg": 37.906,
       "reading": 108.386
+    },
+    "11:16:15": {
+      "confidence": 0.75848,
+      "needle_angle_deg": 0.025,
+      "reading": 132.125
     }
   }
 }
