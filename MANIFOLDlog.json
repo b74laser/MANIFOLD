@@ -877340,6 +877340,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "00:04:06": {
+      "confidence": 4.03394,
+      "needle_angle_deg": -139.011,
+      "reading": 0.0
     }
   }
 }
