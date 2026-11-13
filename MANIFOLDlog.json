@@ -877490,6 +877490,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "00:15:26": {
+      "confidence": 0.48937,
+      "needle_angle_deg": -179.812,
+      "reading": 17.208
     }
   }
 }
