@@ -877410,6 +877410,11 @@
       "confidence": 3.94997,
       "needle_angle_deg": -104.989,
       "reading": 0.0
+    },
+    "00:09:14": {
+      "confidence": 0.56185,
+      "needle_angle_deg": -173.174,
+      "reading": 12.783
     }
   }
 }
