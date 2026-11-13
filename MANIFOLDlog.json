@@ -882090,6 +882090,11 @@
       "confidence": 1.00578,
       "needle_angle_deg": 37.951,
       "reading": 108.361
+    },
+    "06:03:27": {
+      "confidence": 3.8981,
+      "needle_angle_deg": -55.005,
+      "reading": 161.0
     }
   }
 }
