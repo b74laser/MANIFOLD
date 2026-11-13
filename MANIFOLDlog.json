@@ -876453,6 +876453,11 @@
       "confidence": 0.53551,
       "needle_angle_deg": -123.007,
       "reading": 0.0
+    },
+    "22:58:00": {
+      "confidence": 3.88201,
+      "needle_angle_deg": -73.644,
+      "reading": 161.0
     }
   }
 }
