@@ -877790,6 +877790,11 @@
       "confidence": 2.23001,
       "needle_angle_deg": 106.695,
       "reading": 66.062
+    },
+    "00:38:19": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
