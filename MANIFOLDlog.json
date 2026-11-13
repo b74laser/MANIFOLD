@@ -877780,6 +877780,11 @@
       "confidence": 3.58583,
       "needle_angle_deg": 90.0,
       "reading": 76.667
+    },
+    "00:37:33": {
+      "confidence": 0.4322,
+      "needle_angle_deg": -177.7,
+      "reading": 15.8
     }
   }
 }
