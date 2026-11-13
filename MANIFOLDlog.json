@@ -874688,6 +874688,11 @@
       "confidence": 0.6768,
       "needle_angle_deg": -121.862,
       "reading": 0.0
+    },
+    "20:45:35": {
+      "confidence": 4.12141,
+      "needle_angle_deg": 106.152,
+      "reading": 66.381
     }
   }
 }
