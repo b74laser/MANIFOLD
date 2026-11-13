@@ -877560,6 +877560,11 @@
       "confidence": 3.99966,
       "needle_angle_deg": 90.987,
       "reading": 76.008
+    },
+    "00:20:47": {
+      "confidence": 3.78388,
+      "needle_angle_deg": -65.039,
+      "reading": 161.0
     }
   }
 }
