@@ -877033,6 +877033,11 @@
       "confidence": 0.67693,
       "needle_angle_deg": 123.036,
       "reading": 55.357
+    },
+    "23:41:02": {
+      "confidence": 4.00375,
+      "needle_angle_deg": -106.044,
+      "reading": 0.0
     }
   }
 }
