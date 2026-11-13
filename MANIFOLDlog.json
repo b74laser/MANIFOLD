@@ -883670,6 +883670,11 @@
       "confidence": 1.42312,
       "needle_angle_deg": 167.723,
       "reading": 29.197
+    },
+    "08:03:19": {
+      "confidence": 0.80742,
+      "needle_angle_deg": -179.886,
+      "reading": 17.258
     }
   }
 }
