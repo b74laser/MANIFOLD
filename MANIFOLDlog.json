@@ -877840,6 +877840,11 @@
       "confidence": 3.98308,
       "needle_angle_deg": 14.091,
       "reading": 122.606
+    },
+    "00:42:17": {
+      "confidence": 2.27343,
+      "needle_angle_deg": -0.743,
+      "reading": 132.673
     }
   }
 }
