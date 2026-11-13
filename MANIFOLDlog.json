@@ -877880,6 +877880,11 @@
       "confidence": 3.98159,
       "needle_angle_deg": 11.224,
       "reading": 124.518
+    },
+    "00:45:16": {
+      "confidence": 0.5101,
+      "needle_angle_deg": -140.347,
+      "reading": 0.0
     }
   }
 }
