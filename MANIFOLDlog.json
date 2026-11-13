@@ -877700,6 +877700,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "00:31:24": {
+      "confidence": 3.83359,
+      "needle_angle_deg": -16.997,
+      "reading": 143.528
     }
   }
 }
