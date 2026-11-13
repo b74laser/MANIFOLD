@@ -877520,6 +877520,11 @@
       "confidence": 4.02157,
       "needle_angle_deg": 173.041,
       "reading": 23.288
+    },
+    "00:17:41": {
+      "confidence": 0.56782,
+      "needle_angle_deg": -151.707,
+      "reading": 0.0
     }
   }
 }
