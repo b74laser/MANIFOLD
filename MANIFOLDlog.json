@@ -905187,6 +905187,11 @@
       "confidence": 4.01364,
       "needle_angle_deg": 91.184,
       "reading": 75.877
+    },
+    "11:19:20": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
