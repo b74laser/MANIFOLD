@@ -896797,6 +896797,11 @@
       "confidence": 3.84183,
       "needle_angle_deg": 16.992,
       "reading": 120.672
+    },
+    "00:44:37": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
