@@ -892370,6 +892370,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "19:09:25": {
+      "confidence": 0.46956,
+      "needle_angle_deg": 42.414,
+      "reading": 105.881
     }
   }
 }
