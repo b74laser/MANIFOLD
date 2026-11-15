@@ -915674,6 +915674,11 @@
       "confidence": 0.99215,
       "needle_angle_deg": 149.377,
       "reading": 41.926
+    },
+    "00:24:17": {
+      "confidence": 3.88058,
+      "needle_angle_deg": -21.54,
+      "reading": 146.2
     }
   }
 }
