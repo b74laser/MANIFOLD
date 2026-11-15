@@ -911427,6 +911427,11 @@
       "confidence": 0.52187,
       "needle_angle_deg": -120.255,
       "reading": 0.0
+    },
+    "19:08:59": {
+      "confidence": 0.47292,
+      "needle_angle_deg": 44.818,
+      "reading": 104.546
     }
   }
 }
