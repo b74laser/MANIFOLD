@@ -913882,6 +913882,11 @@
       "confidence": 0.50167,
       "needle_angle_deg": -18.16,
       "reading": 144.211
+    },
+    "22:12:30": {
+      "confidence": 0.99325,
+      "needle_angle_deg": 37.897,
+      "reading": 108.39
     }
   }
 }
