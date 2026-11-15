@@ -911997,6 +911997,11 @@
       "confidence": 3.29268,
       "needle_angle_deg": -125.0,
       "reading": 0.0
+    },
+    "19:51:51": {
+      "confidence": 0.4024,
+      "needle_angle_deg": 149.323,
+      "reading": 41.949
     }
   }
 }
