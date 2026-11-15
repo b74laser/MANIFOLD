@@ -911982,6 +911982,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "19:50:45": {
+      "confidence": 0.41889,
+      "needle_angle_deg": -87.099,
+      "reading": 161.0
     }
   }
 }
