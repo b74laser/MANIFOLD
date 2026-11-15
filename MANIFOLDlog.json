@@ -915012,6 +915012,11 @@
       "confidence": 3.9577,
       "needle_angle_deg": 122.306,
       "reading": 55.918
+    },
+    "23:35:35": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
