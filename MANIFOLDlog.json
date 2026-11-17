@@ -955478,6 +955478,11 @@
       "confidence": 1.16824,
       "needle_angle_deg": 142.074,
       "reading": 44.969
+    },
+    "02:19:01": {
+      "confidence": 0.43531,
+      "needle_angle_deg": -144.809,
+      "reading": 0.0
     }
   }
 }
