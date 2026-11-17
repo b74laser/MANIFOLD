@@ -966298,6 +966298,11 @@
       "confidence": 3.94901,
       "needle_angle_deg": 104.972,
       "reading": 67.075
+    },
+    "16:17:00": {
+      "confidence": 0.50648,
+      "needle_angle_deg": -179.795,
+      "reading": 17.197
     }
   }
 }
