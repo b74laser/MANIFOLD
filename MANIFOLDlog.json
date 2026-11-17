@@ -962153,6 +962153,11 @@
       "confidence": 0.36731,
       "needle_angle_deg": 33.863,
       "reading": 110.669
+    },
+    "10:50:46": {
+      "confidence": 3.9266,
+      "needle_angle_deg": -122.705,
+      "reading": 0.0
     }
   }
 }
