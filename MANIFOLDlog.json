@@ -955083,6 +955083,11 @@
       "confidence": 3.98184,
       "needle_angle_deg": -172.691,
       "reading": 12.461
+    },
+    "01:49:31": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
