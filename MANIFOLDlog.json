@@ -964003,6 +964003,11 @@
       "confidence": 0.79484,
       "needle_angle_deg": 0.128,
       "reading": 132.051
+    },
+    "13:16:47": {
+      "confidence": 0.69564,
+      "needle_angle_deg": -28.005,
+      "reading": 150.004
     }
   }
 }
