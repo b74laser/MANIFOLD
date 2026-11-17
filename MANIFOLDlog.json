@@ -960043,6 +960043,11 @@
       "confidence": 0.17224,
       "needle_angle_deg": 47.145,
       "reading": 103.253
+    },
+    "08:05:38": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
