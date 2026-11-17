@@ -956163,6 +956163,11 @@
       "confidence": 4.04085,
       "needle_angle_deg": 173.048,
       "reading": 23.28
+    },
+    "03:10:55": {
+      "confidence": 0.56295,
+      "needle_angle_deg": -107.31,
+      "reading": 0.0
     }
   }
 }
