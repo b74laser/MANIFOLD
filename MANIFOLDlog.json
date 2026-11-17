@@ -963088,6 +963088,11 @@
       "confidence": 0.39888,
       "needle_angle_deg": 145.323,
       "reading": 43.615
+    },
+    "12:05:00": {
+      "confidence": 0.23533,
+      "needle_angle_deg": 145.901,
+      "reading": 43.374
     }
   }
 }
