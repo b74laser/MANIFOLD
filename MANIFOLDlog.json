@@ -966888,6 +966888,11 @@
       "confidence": 0.62503,
       "needle_angle_deg": -31.172,
       "reading": 152.181
+    },
+    "17:02:30": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
