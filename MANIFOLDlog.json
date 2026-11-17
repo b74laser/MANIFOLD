@@ -966448,6 +966448,11 @@
       "confidence": 1.11957,
       "needle_angle_deg": -128.01,
       "reading": 0.0
+    },
+    "16:28:45": {
+      "confidence": 0.69983,
+      "needle_angle_deg": -179.5,
+      "reading": 17.0
     }
   }
 }
