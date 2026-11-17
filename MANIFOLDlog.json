@@ -966548,6 +966548,11 @@
       "confidence": 0.78369,
       "needle_angle_deg": 78.0,
       "reading": 84.375
+    },
+    "16:36:27": {
+      "confidence": 0.39991,
+      "needle_angle_deg": -54.079,
+      "reading": 161.0
     }
   }
 }
