@@ -955783,6 +955783,11 @@
       "confidence": 1.80822,
       "needle_angle_deg": -125.023,
       "reading": 0.0
+    },
+    "02:42:02": {
+      "confidence": 3.8771,
+      "needle_angle_deg": -90.901,
+      "reading": 161.0
     }
   }
 }
