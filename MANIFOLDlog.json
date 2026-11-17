@@ -961023,6 +961023,11 @@
       "confidence": 4.02548,
       "needle_angle_deg": -122.96,
       "reading": 0.0
+    },
+    "09:21:26": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
