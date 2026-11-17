@@ -963833,6 +963833,11 @@
       "confidence": 1.16485,
       "needle_angle_deg": 161.056,
       "reading": 34.572
+    },
+    "13:03:15": {
+      "confidence": 0.46572,
+      "needle_angle_deg": -1.86,
+      "reading": 133.472
     }
   }
 }
