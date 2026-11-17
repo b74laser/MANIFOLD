@@ -958453,6 +958453,11 @@
       "confidence": 0.57541,
       "needle_angle_deg": -166.88,
       "reading": 8.753
+    },
+    "06:05:06": {
+      "confidence": 3.26109,
+      "needle_angle_deg": -51.0,
+      "reading": 161.0
     }
   }
 }
