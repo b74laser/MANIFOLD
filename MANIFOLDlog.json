@@ -953743,6 +953743,11 @@
       "confidence": 3.93133,
       "needle_angle_deg": 0.87,
       "reading": 131.521
+    },
+    "00:09:03": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
