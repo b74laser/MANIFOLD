@@ -978850,6 +978850,11 @@
       "confidence": 0.64898,
       "needle_angle_deg": 168.042,
       "reading": 28.842
+    },
+    "08:16:10": {
+      "confidence": 0.94954,
+      "needle_angle_deg": 30.871,
+      "reading": 112.429
     }
   }
 }
