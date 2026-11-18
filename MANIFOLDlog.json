@@ -979570,6 +979570,11 @@
       "confidence": 1.30292,
       "needle_angle_deg": -136.989,
       "reading": 0.0
+    },
+    "09:13:00": {
+      "confidence": 0.62847,
+      "needle_angle_deg": 77.0,
+      "reading": 85.0
     }
   }
 }
