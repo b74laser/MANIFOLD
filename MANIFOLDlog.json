@@ -972343,6 +972343,11 @@
       "confidence": 0.85217,
       "needle_angle_deg": 155.893,
       "reading": 38.544
+    },
+    "23:56:23": {
+      "confidence": 0.90605,
+      "needle_angle_deg": -153.121,
+      "reading": 0.659
     }
   }
 }
