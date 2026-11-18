@@ -974460,6 +974460,11 @@
       "confidence": 0.63839,
       "needle_angle_deg": -0.555,
       "reading": 132.539
+    },
+    "02:39:31": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
