@@ -978840,6 +978840,11 @@
       "confidence": 0.10082,
       "needle_angle_deg": -94.436,
       "reading": 161.0
+    },
+    "08:15:17": {
+      "confidence": 0.89577,
+      "needle_angle_deg": -5.965,
+      "reading": 136.403
     }
   }
 }
