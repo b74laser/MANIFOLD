@@ -975240,6 +975240,11 @@
       "confidence": 0.48453,
       "needle_angle_deg": -39.142,
       "reading": 157.66
+    },
+    "03:39:31": {
+      "confidence": 0.99956,
+      "needle_angle_deg": -147.128,
+      "reading": 0.0
     }
   }
 }
