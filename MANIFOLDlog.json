@@ -977080,6 +977080,11 @@
       "confidence": 1.13805,
       "needle_angle_deg": -19.345,
       "reading": 144.909
+    },
+    "06:00:13": {
+      "confidence": 1.10552,
+      "needle_angle_deg": 16.969,
+      "reading": 120.687
     }
   }
 }
