@@ -982400,6 +982400,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "12:57:16": {
+      "confidence": 0.63364,
+      "needle_angle_deg": -22.05,
+      "reading": 146.5
     }
   }
 }
