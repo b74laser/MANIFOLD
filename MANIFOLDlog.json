@@ -972378,6 +972378,11 @@
       "confidence": 0.45666,
       "needle_angle_deg": 69.0,
       "reading": 90.0
+    },
+    "23:59:00": {
+      "confidence": 1.01123,
+      "needle_angle_deg": -135.125,
+      "reading": 0.0
     }
   }
 }
