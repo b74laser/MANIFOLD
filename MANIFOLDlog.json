@@ -978730,6 +978730,11 @@
       "confidence": 0.93556,
       "needle_angle_deg": 2.22,
       "reading": 130.557
+    },
+    "08:06:48": {
+      "confidence": 1.11648,
+      "needle_angle_deg": 111.957,
+      "reading": 62.966
     }
   }
 }
