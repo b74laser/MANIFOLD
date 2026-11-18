@@ -977740,6 +977740,11 @@
       "confidence": 0.62954,
       "needle_angle_deg": 144.968,
       "reading": 43.763
+    },
+    "06:50:23": {
+      "confidence": 0.644,
+      "needle_angle_deg": 153.138,
+      "reading": 40.359
     }
   }
 }
