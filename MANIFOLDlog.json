@@ -978170,6 +978170,11 @@
       "confidence": 0.99729,
       "needle_angle_deg": -140.989,
       "reading": 0.0
+    },
+    "07:23:51": {
+      "confidence": 0.58818,
+      "needle_angle_deg": 166.908,
+      "reading": 30.07
     }
   }
 }
