@@ -971813,6 +971813,11 @@
       "confidence": 0.97708,
       "needle_angle_deg": -84.064,
       "reading": 161.0
+    },
+    "23:16:32": {
+      "confidence": 0.1635,
+      "needle_angle_deg": -71.778,
+      "reading": 161.0
     }
   }
 }
