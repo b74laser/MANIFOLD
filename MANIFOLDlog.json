@@ -976110,6 +976110,11 @@
       "confidence": 0.90582,
       "needle_angle_deg": 175.002,
       "reading": 21.109
+    },
+    "04:46:04": {
+      "confidence": 0.74513,
+      "needle_angle_deg": -179.129,
+      "reading": 16.753
     }
   }
 }
