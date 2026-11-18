@@ -972283,6 +972283,11 @@
       "confidence": 1.61928,
       "needle_angle_deg": 145.25,
       "reading": 43.646
+    },
+    "23:51:49": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
     }
   }
 }
