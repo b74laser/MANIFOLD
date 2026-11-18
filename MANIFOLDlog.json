@@ -978800,6 +978800,11 @@
       "confidence": 1.03321,
       "needle_angle_deg": 173.873,
       "reading": 22.364
+    },
+    "08:12:12": {
+      "confidence": 0.74452,
+      "needle_angle_deg": 85.0,
+      "reading": 80.0
     }
   }
 }
