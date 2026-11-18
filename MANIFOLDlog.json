@@ -976600,6 +976600,11 @@
       "confidence": 1.24331,
       "needle_angle_deg": 150.68,
       "reading": 41.383
+    },
+    "05:23:29": {
+      "confidence": 0.64289,
+      "needle_angle_deg": 11.109,
+      "reading": 124.594
     }
   }
 }
