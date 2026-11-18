@@ -973680,6 +973680,11 @@
       "confidence": 0.40937,
       "needle_angle_deg": 61.952,
       "reading": 94.405
+    },
+    "01:39:06": {
+      "confidence": 0.90902,
+      "needle_angle_deg": 30.914,
+      "reading": 112.404
     }
   }
 }
