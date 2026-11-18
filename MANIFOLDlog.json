@@ -972790,6 +972790,11 @@
       "confidence": 1.09908,
       "needle_angle_deg": 24.027,
       "reading": 116.455
+    },
+    "00:30:29": {
+      "confidence": 0.61984,
+      "needle_angle_deg": 31.775,
+      "reading": 111.897
     }
   }
 }
