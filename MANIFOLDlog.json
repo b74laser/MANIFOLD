@@ -978970,6 +978970,11 @@
       "confidence": 0.90802,
       "needle_angle_deg": -59.55,
       "reading": 161.0
+    },
+    "08:25:44": {
+      "confidence": 1.20258,
+      "needle_angle_deg": 179.976,
+      "reading": 17.349
     }
   }
 }
