@@ -976380,6 +976380,11 @@
       "confidence": 1.41854,
       "needle_angle_deg": -151.938,
       "reading": 0.0
+    },
+    "05:06:49": {
+      "confidence": 0.69359,
+      "needle_angle_deg": 62.314,
+      "reading": 94.179
     }
   }
 }
