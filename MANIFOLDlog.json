@@ -971653,6 +971653,11 @@
       "confidence": 0.6969,
       "needle_angle_deg": 0.442,
       "reading": 131.827
+    },
+    "23:04:15": {
+      "confidence": 0.77846,
+      "needle_angle_deg": 170.253,
+      "reading": 26.386
     }
   }
 }
