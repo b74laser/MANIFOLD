@@ -976370,6 +976370,11 @@
       "confidence": 0.0,
       "needle_angle_deg": 0.0,
       "reading": 132.143
+    },
+    "05:06:03": {
+      "confidence": 1.40316,
+      "needle_angle_deg": -131.995,
+      "reading": 0.0
     }
   }
 }
