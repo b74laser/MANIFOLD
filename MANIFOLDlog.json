@@ -974600,6 +974600,11 @@
       "confidence": 0.8866,
       "needle_angle_deg": 10.29,
       "reading": 125.14
+    },
+    "02:50:06": {
+      "confidence": 1.03772,
+      "needle_angle_deg": -176.904,
+      "reading": 15.269
     }
   }
 }
