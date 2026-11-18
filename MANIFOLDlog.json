@@ -974390,6 +974390,11 @@
       "confidence": 1.00259,
       "needle_angle_deg": 178.724,
       "reading": 18.184
+    },
+    "02:34:08": {
+      "confidence": 0.78562,
+      "needle_angle_deg": -154.693,
+      "reading": 1.584
     }
   }
 }
