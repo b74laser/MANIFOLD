@@ -974760,6 +974760,11 @@
       "confidence": 0.7973,
       "needle_angle_deg": -45.975,
       "reading": 161.0
+    },
+    "03:02:12": {
+      "confidence": 0.1823,
+      "needle_angle_deg": -85.909,
+      "reading": 161.0
     }
   }
 }
