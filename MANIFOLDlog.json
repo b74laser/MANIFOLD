@@ -977930,6 +977930,11 @@
       "confidence": 0.7356,
       "needle_angle_deg": -177.019,
       "reading": 15.346
+    },
+    "07:05:14": {
+      "confidence": 0.74488,
+      "needle_angle_deg": 159.235,
+      "reading": 35.973
     }
   }
 }
