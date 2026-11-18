@@ -976870,6 +976870,11 @@
       "confidence": 1.0165,
       "needle_angle_deg": 23.939,
       "reading": 116.506
+    },
+    "05:44:16": {
+      "confidence": 0.45055,
+      "needle_angle_deg": 39.001,
+      "reading": 107.777
     }
   }
 }
