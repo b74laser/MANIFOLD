@@ -975170,6 +975170,11 @@
       "confidence": 0.81055,
       "needle_angle_deg": -106.922,
       "reading": 0.0
+    },
+    "03:34:11": {
+      "confidence": 0.25704,
+      "needle_angle_deg": 80.012,
+      "reading": 83.118
     }
   }
 }
