@@ -974250,6 +974250,11 @@
       "confidence": 0.57789,
       "needle_angle_deg": -155.35,
       "reading": 1.971
+    },
+    "02:23:17": {
+      "confidence": 0.5996,
+      "needle_angle_deg": 15.688,
+      "reading": 121.542
     }
   }
 }
