@@ -972700,6 +972700,11 @@
       "confidence": 0.49465,
       "needle_angle_deg": 89.997,
       "reading": 76.669
+    },
+    "00:23:38": {
+      "confidence": 0.9383,
+      "needle_angle_deg": -0.599,
+      "reading": 132.571
     }
   }
 }
