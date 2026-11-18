@@ -969273,6 +969273,11 @@
       "confidence": 0.33146,
       "needle_angle_deg": -144.603,
       "reading": 0.0
+    },
+    "20:05:08": {
+      "confidence": 0.6926,
+      "needle_angle_deg": 41.936,
+      "reading": 106.147
     }
   }
 }
