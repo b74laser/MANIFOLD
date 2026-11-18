@@ -974470,6 +974470,11 @@
       "confidence": 0.84569,
       "needle_angle_deg": -0.052,
       "reading": 132.18
+    },
+    "02:40:16": {
+      "confidence": 0.81892,
+      "needle_angle_deg": -179.945,
+      "reading": 17.297
     }
   }
 }
