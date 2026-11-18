@@ -972383,6 +972383,11 @@
       "confidence": 1.01123,
       "needle_angle_deg": -135.125,
       "reading": 0.0
+    },
+    "23:59:21": {
+      "confidence": 0.44987,
+      "needle_angle_deg": -86.002,
+      "reading": 161.0
     }
   }
 }
