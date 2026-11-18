@@ -975280,6 +975280,11 @@
       "confidence": 0.85433,
       "needle_angle_deg": -170.799,
       "reading": 11.2
+    },
+    "03:42:32": {
+      "confidence": 1.5583,
+      "needle_angle_deg": 172.049,
+      "reading": 24.39
     }
   }
 }
