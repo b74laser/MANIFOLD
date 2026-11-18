@@ -973350,6 +973350,11 @@
       "confidence": 0.46751,
       "needle_angle_deg": 32.952,
       "reading": 111.205
+    },
+    "01:13:32": {
+      "confidence": 0.87501,
+      "needle_angle_deg": 0.174,
+      "reading": 132.019
     }
   }
 }
