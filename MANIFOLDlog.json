@@ -997847,6 +997847,11 @@
       "confidence": 4.01813,
       "needle_angle_deg": 43.991,
       "reading": 105.005
+    },
+    "08:51:23": {
+      "confidence": 0.90802,
+      "needle_angle_deg": 179.317,
+      "reading": 17.788
     }
   }
 }
