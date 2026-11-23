@@ -1062318,6 +1062318,11 @@
       "confidence": 0.65998,
       "needle_angle_deg": 50.299,
       "reading": 101.501
+    },
+    "20:40:00": {
+      "confidence": 1.27379,
+      "needle_angle_deg": 179.412,
+      "reading": 17.725
     }
   }
 }
