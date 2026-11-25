@@ -1105059,6 +1105059,1511 @@
       "confidence": 0.49784,
       "needle_angle_deg": -14.946,
       "reading": 142.321
+    },
+    "06:04:54": {
+      "confidence": 0.79329,
+      "needle_angle_deg": 0.174,
+      "reading": 132.019
+    },
+    "06:05:10": {
+      "confidence": 0.97032,
+      "needle_angle_deg": 171.179,
+      "reading": 25.357
+    },
+    "06:05:26": {
+      "confidence": 0.73076,
+      "needle_angle_deg": 14.495,
+      "reading": 122.337
+    },
+    "06:05:42": {
+      "confidence": 0.69216,
+      "needle_angle_deg": 170.368,
+      "reading": 26.258
+    },
+    "06:05:57": {
+      "confidence": 0.70259,
+      "needle_angle_deg": -1.551,
+      "reading": 133.251
+    },
+    "06:06:13": {
+      "confidence": 0.36978,
+      "needle_angle_deg": 159.696,
+      "reading": 35.619
+    },
+    "06:06:29": {
+      "confidence": 0.95174,
+      "needle_angle_deg": 0.343,
+      "reading": 131.898
+    },
+    "06:06:45": {
+      "confidence": 1.54219,
+      "needle_angle_deg": 36.276,
+      "reading": 109.291
+    },
+    "06:07:01": {
+      "confidence": 0.99984,
+      "needle_angle_deg": -155.818,
+      "reading": 2.246
+    },
+    "06:07:16": {
+      "confidence": 1.35029,
+      "needle_angle_deg": 18.203,
+      "reading": 119.88
+    },
+    "06:07:33": {
+      "confidence": 1.29506,
+      "needle_angle_deg": -129.347,
+      "reading": 0.0
+    },
+    "06:07:49": {
+      "confidence": 0.47291,
+      "needle_angle_deg": -81.791,
+      "reading": 161.0
+    },
+    "06:08:04": {
+      "confidence": 0.98023,
+      "needle_angle_deg": -165.175,
+      "reading": 7.75
+    },
+    "06:08:20": {
+      "confidence": 0.66065,
+      "needle_angle_deg": 16.322,
+      "reading": 121.119
+    },
+    "06:08:37": {
+      "confidence": 0.54907,
+      "needle_angle_deg": 37.075,
+      "reading": 108.847
+    },
+    "06:08:52": {
+      "confidence": 0.78487,
+      "needle_angle_deg": -162.203,
+      "reading": 6.002
+    },
+    "06:09:08": {
+      "confidence": 0.65858,
+      "needle_angle_deg": 11.273,
+      "reading": 124.485
+    },
+    "06:09:24": {
+      "confidence": 3.92595,
+      "needle_angle_deg": 139.086,
+      "reading": 46.214
+    },
+    "06:09:40": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "06:09:56": {
+      "confidence": 0.81905,
+      "needle_angle_deg": -12.232,
+      "reading": 140.724
+    },
+    "06:10:12": {
+      "confidence": 0.8192,
+      "needle_angle_deg": -178.991,
+      "reading": 16.661
+    },
+    "06:10:27": {
+      "confidence": 0.61325,
+      "needle_angle_deg": -11.909,
+      "reading": 140.535
+    },
+    "06:10:43": {
+      "confidence": 0.97141,
+      "needle_angle_deg": -0.001,
+      "reading": 132.144
+    },
+    "06:10:59": {
+      "confidence": 0.87744,
+      "needle_angle_deg": 22.193,
+      "reading": 117.533
+    },
+    "06:11:15": {
+      "confidence": 1.20904,
+      "needle_angle_deg": -38.908,
+      "reading": 157.499
+    },
+    "06:11:31": {
+      "confidence": 1.29215,
+      "needle_angle_deg": 139.078,
+      "reading": 46.218
+    },
+    "06:11:47": {
+      "confidence": 0.84232,
+      "needle_angle_deg": 16.061,
+      "reading": 121.293
+    },
+    "06:12:03": {
+      "confidence": 0.81495,
+      "needle_angle_deg": 151.004,
+      "reading": 41.248
+    },
+    "06:12:18": {
+      "confidence": 0.72684,
+      "needle_angle_deg": 25.76,
+      "reading": 115.435
+    },
+    "06:12:34": {
+      "confidence": 0.9962,
+      "needle_angle_deg": -150.046,
+      "reading": 0.0
+    },
+    "06:12:50": {
+      "confidence": 1.02521,
+      "needle_angle_deg": 36.034,
+      "reading": 109.425
+    },
+    "06:13:06": {
+      "confidence": 1.1564,
+      "needle_angle_deg": 161.649,
+      "reading": 34.116
+    },
+    "06:13:22": {
+      "confidence": 1.3412,
+      "needle_angle_deg": 0.909,
+      "reading": 131.493
+    },
+    "06:13:38": {
+      "confidence": 1.00401,
+      "needle_angle_deg": 142.098,
+      "reading": 44.959
+    },
+    "06:13:54": {
+      "confidence": 0.12364,
+      "needle_angle_deg": 106.0,
+      "reading": 66.471
+    },
+    "06:14:10": {
+      "confidence": 0.83346,
+      "needle_angle_deg": -50.073,
+      "reading": 161.0
+    },
+    "06:14:26": {
+      "confidence": 1.08224,
+      "needle_angle_deg": 37.931,
+      "reading": 108.372
+    },
+    "06:14:42": {
+      "confidence": 0.9749,
+      "needle_angle_deg": -60.149,
+      "reading": 161.0
+    },
+    "06:14:58": {
+      "confidence": 0.77045,
+      "needle_angle_deg": 16.957,
+      "reading": 120.696
+    },
+    "06:15:13": {
+      "confidence": 0.84906,
+      "needle_angle_deg": 21.784,
+      "reading": 117.774
+    },
+    "06:15:29": {
+      "confidence": 0.65929,
+      "needle_angle_deg": -46.744,
+      "reading": 161.0
+    },
+    "06:15:45": {
+      "confidence": 0.7174,
+      "needle_angle_deg": -166.874,
+      "reading": 8.749
+    },
+    "06:16:01": {
+      "confidence": 0.94639,
+      "needle_angle_deg": -6.437,
+      "reading": 136.74
+    },
+    "06:16:17": {
+      "confidence": 0.35095,
+      "needle_angle_deg": -55.013,
+      "reading": 161.0
+    },
+    "06:16:32": {
+      "confidence": 0.52904,
+      "needle_angle_deg": -106.392,
+      "reading": 0.0
+    },
+    "06:16:48": {
+      "confidence": 0.29192,
+      "needle_angle_deg": 73.643,
+      "reading": 87.098
+    },
+    "06:17:04": {
+      "confidence": 0.88332,
+      "needle_angle_deg": -40.111,
+      "reading": 158.326
+    },
+    "06:17:20": {
+      "confidence": 0.65858,
+      "needle_angle_deg": 155.827,
+      "reading": 38.595
+    },
+    "06:17:36": {
+      "confidence": 0.89052,
+      "needle_angle_deg": -161.967,
+      "reading": 5.863
+    },
+    "06:17:52": {
+      "confidence": 0.86034,
+      "needle_angle_deg": 2.109,
+      "reading": 130.637
+    },
+    "06:18:08": {
+      "confidence": 0.88782,
+      "needle_angle_deg": 37.926,
+      "reading": 108.375
+    },
+    "06:18:24": {
+      "confidence": 0.23849,
+      "needle_angle_deg": 136.834,
+      "reading": 47.152
+    },
+    "06:18:39": {
+      "confidence": 0.7091,
+      "needle_angle_deg": -142.138,
+      "reading": 0.0
+    },
+    "06:18:55": {
+      "confidence": 0.89149,
+      "needle_angle_deg": -179.913,
+      "reading": 17.275
+    },
+    "06:19:11": {
+      "confidence": 0.67728,
+      "needle_angle_deg": 4.86,
+      "reading": 128.76
+    },
+    "06:19:27": {
+      "confidence": 0.91661,
+      "needle_angle_deg": -1.117,
+      "reading": 132.941
+    },
+    "06:19:43": {
+      "confidence": 1.17933,
+      "needle_angle_deg": 171.925,
+      "reading": 24.528
+    },
+    "06:19:59": {
+      "confidence": 0.86909,
+      "needle_angle_deg": 173.071,
+      "reading": 23.254
+    },
+    "06:20:15": {
+      "confidence": 1.08698,
+      "needle_angle_deg": 32.021,
+      "reading": 111.753
+    },
+    "06:20:30": {
+      "confidence": 0.58946,
+      "needle_angle_deg": -153.048,
+      "reading": 0.617
+    },
+    "06:20:47": {
+      "confidence": 0.57142,
+      "needle_angle_deg": 155.126,
+      "reading": 39.134
+    },
+    "06:21:03": {
+      "confidence": 1.26252,
+      "needle_angle_deg": -179.372,
+      "reading": 16.915
+    },
+    "06:21:18": {
+      "confidence": 0.88371,
+      "needle_angle_deg": 144.098,
+      "reading": 44.126
+    },
+    "06:21:34": {
+      "confidence": 0.47238,
+      "needle_angle_deg": 46.569,
+      "reading": 103.573
+    },
+    "06:21:50": {
+      "confidence": 0.54722,
+      "needle_angle_deg": 15.568,
+      "reading": 121.621
+    },
+    "06:22:06": {
+      "confidence": 0.74425,
+      "needle_angle_deg": -22.093,
+      "reading": 146.525
+    },
+    "06:22:22": {
+      "confidence": 0.77137,
+      "needle_angle_deg": 36.723,
+      "reading": 109.043
+    },
+    "06:22:38": {
+      "confidence": 0.60594,
+      "needle_angle_deg": -21.357,
+      "reading": 146.092
+    },
+    "06:22:54": {
+      "confidence": 1.60088,
+      "needle_angle_deg": 64.085,
+      "reading": 93.072
+    },
+    "06:23:09": {
+      "confidence": 1.27095,
+      "needle_angle_deg": 38.902,
+      "reading": 107.832
+    },
+    "06:23:25": {
+      "confidence": 0.82948,
+      "needle_angle_deg": -167.209,
+      "reading": 8.946
+    },
+    "06:23:41": {
+      "confidence": 0.41956,
+      "needle_angle_deg": -43.955,
+      "reading": 160.969
+    },
+    "06:23:57": {
+      "confidence": 0.49153,
+      "needle_angle_deg": 83.343,
+      "reading": 81.036
+    },
+    "06:24:13": {
+      "confidence": 0.75712,
+      "needle_angle_deg": -10.426,
+      "reading": 139.59
+    },
+    "06:24:28": {
+      "confidence": 0.76389,
+      "needle_angle_deg": 39.19,
+      "reading": 107.672
+    },
+    "06:24:45": {
+      "confidence": 0.80125,
+      "needle_angle_deg": 131.587,
+      "reading": 49.339
+    },
+    "06:25:01": {
+      "confidence": 0.91637,
+      "needle_angle_deg": -56.023,
+      "reading": 161.0
+    },
+    "06:25:16": {
+      "confidence": 1.29984,
+      "needle_angle_deg": 30.947,
+      "reading": 112.384
+    },
+    "06:25:32": {
+      "confidence": 0.44897,
+      "needle_angle_deg": -34.809,
+      "reading": 154.681
+    },
+    "06:25:48": {
+      "confidence": 1.24864,
+      "needle_angle_deg": 142.057,
+      "reading": 44.976
+    },
+    "06:26:04": {
+      "confidence": 0.75298,
+      "needle_angle_deg": -0.426,
+      "reading": 132.447
+    },
+    "06:26:20": {
+      "confidence": 0.9953,
+      "needle_angle_deg": 173.651,
+      "reading": 22.611
+    },
+    "06:26:36": {
+      "confidence": 0.77148,
+      "needle_angle_deg": -13.876,
+      "reading": 141.692
+    },
+    "06:26:52": {
+      "confidence": 0.55046,
+      "needle_angle_deg": 70.0,
+      "reading": 89.375
+    },
+    "06:27:08": {
+      "confidence": 0.8109,
+      "needle_angle_deg": -0.27,
+      "reading": 132.336
+    },
+    "06:27:24": {
+      "confidence": 0.39875,
+      "needle_angle_deg": 113.613,
+      "reading": 61.992
+    },
+    "06:27:39": {
+      "confidence": 0.9761,
+      "needle_angle_deg": 22.981,
+      "reading": 117.07
+    },
+    "06:27:55": {
+      "confidence": 0.46048,
+      "needle_angle_deg": 127.233,
+      "reading": 52.129
+    },
+    "06:28:11": {
+      "confidence": 0.52061,
+      "needle_angle_deg": -167.088,
+      "reading": 8.876
+    },
+    "06:28:27": {
+      "confidence": 0.73897,
+      "needle_angle_deg": 165.476,
+      "reading": 31.173
+    },
+    "06:28:43": {
+      "confidence": 1.24527,
+      "needle_angle_deg": -179.852,
+      "reading": 17.235
+    },
+    "06:28:59": {
+      "confidence": 1.10919,
+      "needle_angle_deg": -39.113,
+      "reading": 157.641
+    },
+    "06:29:15": {
+      "confidence": 1.40145,
+      "needle_angle_deg": 5.873,
+      "reading": 128.085
+    },
+    "06:29:30": {
+      "confidence": 0.77876,
+      "needle_angle_deg": 149.952,
+      "reading": 41.687
+    },
+    "06:29:46": {
+      "confidence": 0.90109,
+      "needle_angle_deg": 0.001,
+      "reading": 132.142
+    },
+    "06:30:02": {
+      "confidence": 0.95971,
+      "needle_angle_deg": -3.075,
+      "reading": 134.339
+    },
+    "06:30:18": {
+      "confidence": 1.36383,
+      "needle_angle_deg": -13.04,
+      "reading": 141.2
+    },
+    "06:30:34": {
+      "confidence": 0.64176,
+      "needle_angle_deg": 1.288,
+      "reading": 131.223
+    },
+    "06:30:50": {
+      "confidence": 0.66753,
+      "needle_angle_deg": 2.207,
+      "reading": 130.566
+    },
+    "06:31:06": {
+      "confidence": 0.75905,
+      "needle_angle_deg": -177.08,
+      "reading": 15.387
+    },
+    "06:31:22": {
+      "confidence": 0.54438,
+      "needle_angle_deg": 161.707,
+      "reading": 34.071
+    },
+    "06:31:37": {
+      "confidence": 0.86475,
+      "needle_angle_deg": 9.057,
+      "reading": 125.962
+    },
+    "06:31:53": {
+      "confidence": 0.76022,
+      "needle_angle_deg": -165.836,
+      "reading": 8.139
+    },
+    "06:32:09": {
+      "confidence": 1.26216,
+      "needle_angle_deg": 179.845,
+      "reading": 17.437
+    },
+    "06:32:25": {
+      "confidence": 0.57994,
+      "needle_angle_deg": -152.994,
+      "reading": 0.585
+    },
+    "06:32:40": {
+      "confidence": 1.3423,
+      "needle_angle_deg": -0.173,
+      "reading": 132.267
+    },
+    "06:32:56": {
+      "confidence": 1.18217,
+      "needle_angle_deg": 172.944,
+      "reading": 23.396
+    },
+    "06:33:12": {
+      "confidence": 1.05536,
+      "needle_angle_deg": -178.712,
+      "reading": 16.474
+    },
+    "06:33:28": {
+      "confidence": 0.80027,
+      "needle_angle_deg": -0.055,
+      "reading": 132.182
+    },
+    "06:33:44": {
+      "confidence": 0.40499,
+      "needle_angle_deg": -122.827,
+      "reading": 0.0
+    },
+    "06:34:00": {
+      "confidence": 0.68323,
+      "needle_angle_deg": 0.054,
+      "reading": 132.104
+    },
+    "06:34:16": {
+      "confidence": 0.81956,
+      "needle_angle_deg": 0.48,
+      "reading": 131.8
+    },
+    "06:34:31": {
+      "confidence": 0.52987,
+      "needle_angle_deg": -93.959,
+      "reading": 161.0
+    },
+    "06:34:47": {
+      "confidence": 0.63544,
+      "needle_angle_deg": 22.355,
+      "reading": 117.438
+    },
+    "06:35:03": {
+      "confidence": 1.05156,
+      "needle_angle_deg": 143.08,
+      "reading": 44.55
+    },
+    "06:35:19": {
+      "confidence": 1.4091,
+      "needle_angle_deg": 43.019,
+      "reading": 105.545
+    },
+    "06:35:35": {
+      "confidence": 0.76975,
+      "needle_angle_deg": 158.22,
+      "reading": 36.754
+    },
+    "06:35:50": {
+      "confidence": 0.62472,
+      "needle_angle_deg": -29.681,
+      "reading": 151.156
+    },
+    "06:36:07": {
+      "confidence": 0.58989,
+      "needle_angle_deg": 31.926,
+      "reading": 111.808
+    },
+    "06:36:23": {
+      "confidence": 1.20048,
+      "needle_angle_deg": 26.008,
+      "reading": 115.289
+    },
+    "06:36:38": {
+      "confidence": 0.82215,
+      "needle_angle_deg": 76.117,
+      "reading": 85.552
+    },
+    "06:36:54": {
+      "confidence": 0.92102,
+      "needle_angle_deg": -18.892,
+      "reading": 144.642
+    },
+    "06:37:10": {
+      "confidence": 1.18242,
+      "needle_angle_deg": -161.12,
+      "reading": 5.365
+    },
+    "06:37:26": {
+      "confidence": 0.53491,
+      "needle_angle_deg": 27.258,
+      "reading": 114.554
+    },
+    "06:37:41": {
+      "confidence": 0.63496,
+      "needle_angle_deg": 36.947,
+      "reading": 108.918
+    },
+    "06:37:58": {
+      "confidence": 0.68481,
+      "needle_angle_deg": 28.08,
+      "reading": 114.071
+    },
+    "06:38:13": {
+      "confidence": 0.3107,
+      "needle_angle_deg": 89.023,
+      "reading": 77.318
+    },
+    "06:38:29": {
+      "confidence": 0.61832,
+      "needle_angle_deg": 152.09,
+      "reading": 40.796
+    },
+    "06:38:45": {
+      "confidence": 0.98759,
+      "needle_angle_deg": 29.045,
+      "reading": 113.503
+    },
+    "06:39:01": {
+      "confidence": 0.71618,
+      "needle_angle_deg": -73.793,
+      "reading": 161.0
+    },
+    "06:39:17": {
+      "confidence": 0.34121,
+      "needle_angle_deg": 57.0,
+      "reading": 97.5
+    },
+    "06:39:32": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "06:39:48": {
+      "confidence": 0.54886,
+      "needle_angle_deg": 153.272,
+      "reading": 40.303
+    },
+    "06:40:04": {
+      "confidence": 0.50115,
+      "needle_angle_deg": -136.0,
+      "reading": 0.0
+    },
+    "06:40:20": {
+      "confidence": 0.84573,
+      "needle_angle_deg": -137.721,
+      "reading": 0.0
+    },
+    "06:40:36": {
+      "confidence": 1.35375,
+      "needle_angle_deg": -164.394,
+      "reading": 7.29
+    },
+    "06:40:52": {
+      "confidence": 0.66203,
+      "needle_angle_deg": -12.692,
+      "reading": 140.995
+    },
+    "06:41:07": {
+      "confidence": 0.71553,
+      "needle_angle_deg": 167.194,
+      "reading": 29.784
+    },
+    "06:41:23": {
+      "confidence": 0.78227,
+      "needle_angle_deg": 174.871,
+      "reading": 21.255
+    },
+    "06:41:39": {
+      "confidence": 0.8243,
+      "needle_angle_deg": -178.895,
+      "reading": 16.597
+    },
+    "06:41:55": {
+      "confidence": 0.46192,
+      "needle_angle_deg": -135.031,
+      "reading": 0.0
+    },
+    "06:42:11": {
+      "confidence": 0.39669,
+      "needle_angle_deg": -18.047,
+      "reading": 144.145
+    },
+    "06:42:26": {
+      "confidence": 0.69619,
+      "needle_angle_deg": 139.035,
+      "reading": 46.236
+    },
+    "06:42:42": {
+      "confidence": 0.4548,
+      "needle_angle_deg": -23.95,
+      "reading": 147.618
+    },
+    "06:42:58": {
+      "confidence": 0.85981,
+      "needle_angle_deg": 6.772,
+      "reading": 127.485
+    },
+    "06:43:14": {
+      "confidence": 1.10423,
+      "needle_angle_deg": 33.884,
+      "reading": 110.656
+    },
+    "06:43:30": {
+      "confidence": 0.56797,
+      "needle_angle_deg": -51.944,
+      "reading": 161.0
+    },
+    "06:43:46": {
+      "confidence": 0.35159,
+      "needle_angle_deg": -94.148,
+      "reading": 161.0
+    },
+    "06:44:02": {
+      "confidence": 0.63622,
+      "needle_angle_deg": 11.069,
+      "reading": 124.621
+    },
+    "06:44:18": {
+      "confidence": 1.10698,
+      "needle_angle_deg": 37.918,
+      "reading": 108.379
+    },
+    "06:44:33": {
+      "confidence": 0.66382,
+      "needle_angle_deg": -24.397,
+      "reading": 147.88
+    },
+    "06:44:49": {
+      "confidence": 0.65864,
+      "needle_angle_deg": 9.017,
+      "reading": 125.989
+    },
+    "06:45:05": {
+      "confidence": 1.00788,
+      "needle_angle_deg": -20.975,
+      "reading": 145.868
+    },
+    "06:45:21": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "06:45:37": {
+      "confidence": 0.94135,
+      "needle_angle_deg": -153.98,
+      "reading": 1.165
+    },
+    "06:45:53": {
+      "confidence": 1.12999,
+      "needle_angle_deg": 142.075,
+      "reading": 44.969
+    },
+    "06:46:08": {
+      "confidence": 0.89508,
+      "needle_angle_deg": 38.813,
+      "reading": 107.882
+    },
+    "06:46:24": {
+      "confidence": 0.80438,
+      "needle_angle_deg": -175.141,
+      "reading": 14.094
+    },
+    "06:46:40": {
+      "confidence": 0.13436,
+      "needle_angle_deg": 85.073,
+      "reading": 79.952
+    },
+    "06:46:56": {
+      "confidence": 1.13085,
+      "needle_angle_deg": 165.172,
+      "reading": 31.406
+    },
+    "06:47:12": {
+      "confidence": 0.24445,
+      "needle_angle_deg": -101.873,
+      "reading": 0.0
+    },
+    "06:47:27": {
+      "confidence": 0.72316,
+      "needle_angle_deg": 112.928,
+      "reading": 62.395
+    },
+    "06:47:43": {
+      "confidence": 0.22029,
+      "needle_angle_deg": -62.839,
+      "reading": 161.0
+    },
+    "06:47:59": {
+      "confidence": 1.62751,
+      "needle_angle_deg": 174.825,
+      "reading": 21.305
+    },
+    "06:48:15": {
+      "confidence": 0.78845,
+      "needle_angle_deg": -25.851,
+      "reading": 148.736
+    },
+    "06:48:31": {
+      "confidence": 0.88012,
+      "needle_angle_deg": -21.16,
+      "reading": 145.976
+    },
+    "06:48:47": {
+      "confidence": 0.87295,
+      "needle_angle_deg": -33.415,
+      "reading": 153.723
+    },
+    "06:49:03": {
+      "confidence": 1.12435,
+      "needle_angle_deg": 170.512,
+      "reading": 26.098
+    },
+    "06:49:19": {
+      "confidence": 0.7306,
+      "needle_angle_deg": 22.969,
+      "reading": 117.077
+    },
+    "06:49:34": {
+      "confidence": 1.27907,
+      "needle_angle_deg": -69.893,
+      "reading": 161.0
+    },
+    "06:49:50": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "06:50:06": {
+      "confidence": 0.78975,
+      "needle_angle_deg": -15.999,
+      "reading": 142.941
+    },
+    "06:50:22": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "06:50:38": {
+      "confidence": 0.53472,
+      "needle_angle_deg": -131.693,
+      "reading": 0.0
+    },
+    "06:50:54": {
+      "confidence": 0.50256,
+      "needle_angle_deg": -27.835,
+      "reading": 149.903
+    },
+    "06:51:10": {
+      "confidence": 0.86608,
+      "needle_angle_deg": -15.104,
+      "reading": 142.414
+    },
+    "06:51:26": {
+      "confidence": 0.87584,
+      "needle_angle_deg": -12.063,
+      "reading": 140.625
+    },
+    "06:51:41": {
+      "confidence": 0.87027,
+      "needle_angle_deg": -177.62,
+      "reading": 15.747
+    },
+    "06:51:57": {
+      "confidence": 1.03047,
+      "needle_angle_deg": 165.01,
+      "reading": 31.531
+    },
+    "06:52:13": {
+      "confidence": 0.776,
+      "needle_angle_deg": -179.868,
+      "reading": 17.246
+    },
+    "06:52:29": {
+      "confidence": 0.82566,
+      "needle_angle_deg": -178.9,
+      "reading": 16.6
+    },
+    "06:52:45": {
+      "confidence": 0.79768,
+      "needle_angle_deg": 123.093,
+      "reading": 55.313
+    },
+    "06:53:01": {
+      "confidence": 0.48157,
+      "needle_angle_deg": -19.883,
+      "reading": 145.225
+    },
+    "06:53:17": {
+      "confidence": 0.68991,
+      "needle_angle_deg": -16.931,
+      "reading": 143.489
+    },
+    "06:53:32": {
+      "confidence": 0.75612,
+      "needle_angle_deg": -167.149,
+      "reading": 8.911
+    },
+    "06:53:49": {
+      "confidence": 1.04327,
+      "needle_angle_deg": 176.897,
+      "reading": 19.402
+    },
+    "06:54:05": {
+      "confidence": 1.0966,
+      "needle_angle_deg": 171.012,
+      "reading": 25.542
+    },
+    "06:54:21": {
+      "confidence": 0.22729,
+      "needle_angle_deg": -121.695,
+      "reading": 0.0
+    },
+    "06:54:37": {
+      "confidence": 0.90778,
+      "needle_angle_deg": 2.121,
+      "reading": 130.628
+    },
+    "06:54:52": {
+      "confidence": 0.96177,
+      "needle_angle_deg": -43.966,
+      "reading": 160.977
+    },
+    "06:55:08": {
+      "confidence": 0.79077,
+      "needle_angle_deg": 15.03,
+      "reading": 121.98
+    },
+    "06:55:24": {
+      "confidence": 0.7173,
+      "needle_angle_deg": -166.023,
+      "reading": 8.249
+    },
+    "06:55:40": {
+      "confidence": 0.4098,
+      "needle_angle_deg": -0.834,
+      "reading": 132.738
+    },
+    "06:55:56": {
+      "confidence": 1.01535,
+      "needle_angle_deg": 11.089,
+      "reading": 124.607
+    },
+    "06:56:12": {
+      "confidence": 0.61614,
+      "needle_angle_deg": 178.316,
+      "reading": 18.456
+    },
+    "06:56:27": {
+      "confidence": 4.05383,
+      "needle_angle_deg": -123.014,
+      "reading": 0.0
+    },
+    "06:56:43": {
+      "confidence": 0.68607,
+      "needle_angle_deg": 7.298,
+      "reading": 127.135
+    },
+    "06:57:00": {
+      "confidence": 0.8571,
+      "needle_angle_deg": -13.781,
+      "reading": 141.636
+    },
+    "06:57:16": {
+      "confidence": 1.47809,
+      "needle_angle_deg": -37.06,
+      "reading": 156.229
+    },
+    "06:57:31": {
+      "confidence": 0.33452,
+      "needle_angle_deg": 70.0,
+      "reading": 89.375
+    },
+    "06:57:47": {
+      "confidence": 0.58372,
+      "needle_angle_deg": 151.242,
+      "reading": 41.149
+    },
+    "06:58:04": {
+      "confidence": 0.62652,
+      "needle_angle_deg": -36.094,
+      "reading": 155.565
+    },
+    "06:58:19": {
+      "confidence": 1.16752,
+      "needle_angle_deg": 38.9,
+      "reading": 107.833
+    },
+    "06:58:35": {
+      "confidence": 0.48499,
+      "needle_angle_deg": 96.0,
+      "reading": 72.667
+    },
+    "06:58:51": {
+      "confidence": 0.96514,
+      "needle_angle_deg": -1.018,
+      "reading": 132.87
+    },
+    "06:59:07": {
+      "confidence": 1.16204,
+      "needle_angle_deg": -173.94,
+      "reading": 13.293
+    },
+    "06:59:23": {
+      "confidence": 0.74801,
+      "needle_angle_deg": 44.062,
+      "reading": 104.966
+    },
+    "06:59:39": {
+      "confidence": 0.18161,
+      "needle_angle_deg": -44.0,
+      "reading": 161.0
+    },
+    "06:59:54": {
+      "confidence": 0.99703,
+      "needle_angle_deg": 127.745,
+      "reading": 51.734
+    },
+    "07:00:10": {
+      "confidence": 0.61013,
+      "needle_angle_deg": 148.349,
+      "reading": 42.355
+    },
+    "07:00:26": {
+      "confidence": 0.73071,
+      "needle_angle_deg": -179.682,
+      "reading": 17.121
+    },
+    "07:00:42": {
+      "confidence": 0.69572,
+      "needle_angle_deg": -13.437,
+      "reading": 141.434
+    },
+    "07:00:57": {
+      "confidence": 1.3831,
+      "needle_angle_deg": 46.006,
+      "reading": 103.885
+    },
+    "07:01:13": {
+      "confidence": 1.06801,
+      "needle_angle_deg": 179.849,
+      "reading": 17.434
+    },
+    "07:01:29": {
+      "confidence": 0.56982,
+      "needle_angle_deg": 44.015,
+      "reading": 104.992
+    },
+    "07:01:45": {
+      "confidence": 1.60464,
+      "needle_angle_deg": 176.955,
+      "reading": 19.363
+    },
+    "07:02:01": {
+      "confidence": 0.48794,
+      "needle_angle_deg": 144.003,
+      "reading": 44.166
+    },
+    "07:02:17": {
+      "confidence": 0.48838,
+      "needle_angle_deg": -142.791,
+      "reading": 0.0
+    },
+    "07:02:32": {
+      "confidence": 0.89884,
+      "needle_angle_deg": 144.258,
+      "reading": 44.059
+    },
+    "07:02:49": {
+      "confidence": 0.55916,
+      "needle_angle_deg": 35.242,
+      "reading": 109.866
+    },
+    "07:03:05": {
+      "confidence": 1.04043,
+      "needle_angle_deg": 161.125,
+      "reading": 34.519
+    },
+    "07:03:20": {
+      "confidence": 0.69964,
+      "needle_angle_deg": 137.005,
+      "reading": 47.081
+    },
+    "07:03:36": {
+      "confidence": 1.06003,
+      "needle_angle_deg": 0.323,
+      "reading": 131.912
+    },
+    "07:03:52": {
+      "confidence": 1.19369,
+      "needle_angle_deg": 176.828,
+      "reading": 19.448
+    },
+    "07:04:08": {
+      "confidence": 0.84233,
+      "needle_angle_deg": 33.424,
+      "reading": 110.927
+    },
+    "07:04:24": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "07:04:40": {
+      "confidence": 0.58796,
+      "needle_angle_deg": -114.076,
+      "reading": 0.0
+    },
+    "07:04:56": {
+      "confidence": 0.67043,
+      "needle_angle_deg": 131.922,
+      "reading": 49.199
+    },
+    "07:05:12": {
+      "confidence": 0.51305,
+      "needle_angle_deg": 144.213,
+      "reading": 44.078
+    },
+    "07:05:27": {
+      "confidence": 1.23224,
+      "needle_angle_deg": 153.459,
+      "reading": 40.225
+    },
+    "07:05:43": {
+      "confidence": 0.33848,
+      "needle_angle_deg": 120.0,
+      "reading": 57.692
+    },
+    "07:05:59": {
+      "confidence": 1.15354,
+      "needle_angle_deg": -83.683,
+      "reading": 161.0
+    },
+    "07:06:15": {
+      "confidence": 0.53599,
+      "needle_angle_deg": -21.271,
+      "reading": 146.042
+    },
+    "07:06:31": {
+      "confidence": 0.22014,
+      "needle_angle_deg": 121.0,
+      "reading": 56.923
+    },
+    "07:06:47": {
+      "confidence": 0.86689,
+      "needle_angle_deg": 125.079,
+      "reading": 53.785
+    },
+    "07:07:03": {
+      "confidence": 1.18111,
+      "needle_angle_deg": 164.065,
+      "reading": 32.257
+    },
+    "07:07:18": {
+      "confidence": 1.66752,
+      "needle_angle_deg": 5.004,
+      "reading": 128.664
+    },
+    "07:07:34": {
+      "confidence": 0.75933,
+      "needle_angle_deg": -54.905,
+      "reading": 161.0
+    },
+    "07:07:50": {
+      "confidence": 1.15099,
+      "needle_angle_deg": 0.29,
+      "reading": 131.936
+    },
+    "07:08:06": {
+      "confidence": 0.72447,
+      "needle_angle_deg": 52.015,
+      "reading": 100.547
+    },
+    "07:08:22": {
+      "confidence": 0.68334,
+      "needle_angle_deg": -135.813,
+      "reading": 0.0
+    },
+    "07:08:38": {
+      "confidence": 0.85702,
+      "needle_angle_deg": 147.218,
+      "reading": 42.826
+    },
+    "07:08:54": {
+      "confidence": 1.10007,
+      "needle_angle_deg": -35.964,
+      "reading": 155.476
+    },
+    "07:09:10": {
+      "confidence": 0.68487,
+      "needle_angle_deg": -17.945,
+      "reading": 144.085
+    },
+    "07:09:26": {
+      "confidence": 0.24608,
+      "needle_angle_deg": -84.579,
+      "reading": 161.0
+    },
+    "07:09:42": {
+      "confidence": 0.13372,
+      "needle_angle_deg": 62.0,
+      "reading": 94.375
+    },
+    "07:09:57": {
+      "confidence": 1.11934,
+      "needle_angle_deg": 16.79,
+      "reading": 120.807
+    },
+    "07:10:13": {
+      "confidence": 1.39815,
+      "needle_angle_deg": 19.134,
+      "reading": 119.333
+    },
+    "07:10:29": {
+      "confidence": 0.73932,
+      "needle_angle_deg": 50.115,
+      "reading": 101.603
+    },
+    "07:10:45": {
+      "confidence": 0.60735,
+      "needle_angle_deg": -25.008,
+      "reading": 148.24
+    },
+    "07:11:01": {
+      "confidence": 0.0,
+      "needle_angle_deg": 0.0,
+      "reading": 132.143
+    },
+    "07:11:17": {
+      "confidence": 0.84017,
+      "needle_angle_deg": -17.878,
+      "reading": 144.046
+    },
+    "07:11:32": {
+      "confidence": 0.84573,
+      "needle_angle_deg": -128.515,
+      "reading": 0.0
+    },
+    "07:11:48": {
+      "confidence": 0.51691,
+      "needle_angle_deg": 107.0,
+      "reading": 65.882
+    },
+    "07:12:04": {
+      "confidence": 1.1609,
+      "needle_angle_deg": -155.0,
+      "reading": 1.765
+    },
+    "07:12:20": {
+      "confidence": 0.67862,
+      "needle_angle_deg": -136.327,
+      "reading": 0.0
+    },
+    "07:12:37": {
+      "confidence": 0.68134,
+      "needle_angle_deg": 152.393,
+      "reading": 40.669
+    },
+    "07:12:52": {
+      "confidence": 1.01838,
+      "needle_angle_deg": 0.054,
+      "reading": 132.104
+    },
+    "07:13:08": {
+      "confidence": 0.65784,
+      "needle_angle_deg": -100.917,
+      "reading": 0.0
+    },
+    "07:13:24": {
+      "confidence": 0.73296,
+      "needle_angle_deg": -168.441,
+      "reading": 9.671
+    },
+    "07:13:40": {
+      "confidence": 0.65207,
+      "needle_angle_deg": -18.734,
+      "reading": 144.549
+    },
+    "07:13:56": {
+      "confidence": 0.77525,
+      "needle_angle_deg": -168.04,
+      "reading": 9.436
+    },
+    "07:14:11": {
+      "confidence": 1.21197,
+      "needle_angle_deg": 10.87,
+      "reading": 124.753
+    },
+    "07:14:28": {
+      "confidence": 0.4683,
+      "needle_angle_deg": -154.844,
+      "reading": 1.673
+    },
+    "07:14:43": {
+      "confidence": 0.56464,
+      "needle_angle_deg": 43.876,
+      "reading": 105.069
+    },
+    "07:14:59": {
+      "confidence": 0.76547,
+      "needle_angle_deg": -26.841,
+      "reading": 149.318
+    },
+    "07:15:15": {
+      "confidence": 0.68648,
+      "needle_angle_deg": -136.099,
+      "reading": 0.0
+    },
+    "07:15:30": {
+      "confidence": 0.96456,
+      "needle_angle_deg": 173.748,
+      "reading": 22.502
+    },
+    "07:15:46": {
+      "confidence": 0.61837,
+      "needle_angle_deg": 134.129,
+      "reading": 48.28
+    },
+    "07:16:02": {
+      "confidence": 0.50088,
+      "needle_angle_deg": 134.986,
+      "reading": 47.923
+    },
+    "07:16:18": {
+      "confidence": 0.5003,
+      "needle_angle_deg": 9.491,
+      "reading": 125.672
+    },
+    "07:16:34": {
+      "confidence": 0.58462,
+      "needle_angle_deg": -1.79,
+      "reading": 133.422
+    },
+    "07:16:50": {
+      "confidence": 1.68393,
+      "needle_angle_deg": -5.982,
+      "reading": 136.416
+    },
+    "07:17:06": {
+      "confidence": 1.04497,
+      "needle_angle_deg": 178.084,
+      "reading": 18.611
+    },
+    "07:17:22": {
+      "confidence": 0.7581,
+      "needle_angle_deg": -172.364,
+      "reading": 12.243
+    },
+    "07:17:38": {
+      "confidence": 0.84661,
+      "needle_angle_deg": 67.013,
+      "reading": 91.242
+    },
+    "07:17:53": {
+      "confidence": 0.3865,
+      "needle_angle_deg": 111.01,
+      "reading": 63.524
+    },
+    "07:18:09": {
+      "confidence": 1.06962,
+      "needle_angle_deg": -56.238,
+      "reading": 161.0
+    },
+    "07:18:25": {
+      "confidence": 1.13266,
+      "needle_angle_deg": 174.136,
+      "reading": 22.072
+    },
+    "07:18:41": {
+      "confidence": 0.56649,
+      "needle_angle_deg": 61.09,
+      "reading": 94.943
+    },
+    "07:18:57": {
+      "confidence": 0.91708,
+      "needle_angle_deg": 54.013,
+      "reading": 99.367
+    },
+    "07:19:13": {
+      "confidence": 0.43943,
+      "needle_angle_deg": -61.301,
+      "reading": 161.0
+    },
+    "07:19:29": {
+      "confidence": 0.83808,
+      "needle_angle_deg": 134.978,
+      "reading": 47.926
+    },
+    "07:19:44": {
+      "confidence": 0.70273,
+      "needle_angle_deg": -108.708,
+      "reading": 0.0
+    },
+    "07:20:01": {
+      "confidence": 0.70606,
+      "needle_angle_deg": 91.951,
+      "reading": 75.366
+    },
+    "07:20:16": {
+      "confidence": 1.11995,
+      "needle_angle_deg": -9.959,
+      "reading": 139.256
+    },
+    "07:20:32": {
+      "confidence": 0.63005,
+      "needle_angle_deg": 15.958,
+      "reading": 121.361
+    },
+    "07:20:48": {
+      "confidence": 0.72197,
+      "needle_angle_deg": -49.996,
+      "reading": 161.0
+    },
+    "07:21:04": {
+      "confidence": 0.67974,
+      "needle_angle_deg": -94.972,
+      "reading": 161.0
+    },
+    "07:21:20": {
+      "confidence": 0.33566,
+      "needle_angle_deg": 130.956,
+      "reading": 49.602
+    },
+    "07:21:36": {
+      "confidence": 0.53525,
+      "needle_angle_deg": 53.082,
+      "reading": 99.949
+    },
+    "07:21:52": {
+      "confidence": 1.2734,
+      "needle_angle_deg": 11.108,
+      "reading": 124.595
+    },
+    "07:22:08": {
+      "confidence": 0.475,
+      "needle_angle_deg": 112.0,
+      "reading": 62.941
+    },
+    "07:22:24": {
+      "confidence": 0.60362,
+      "needle_angle_deg": -119.0,
+      "reading": 0.0
+    },
+    "07:22:51": {
+      "confidence": 1.03638,
+      "needle_angle_deg": -18.458,
+      "reading": 144.387
+    },
+    "07:23:07": {
+      "confidence": 0.82026,
+      "needle_angle_deg": 153.869,
+      "reading": 40.055
+    },
+    "07:23:23": {
+      "confidence": 0.74065,
+      "needle_angle_deg": 137.991,
+      "reading": 46.67
+    },
+    "07:23:50": {
+      "confidence": 1.22745,
+      "needle_angle_deg": -178.309,
+      "reading": 16.206
+    },
+    "07:24:17": {
+      "confidence": 0.84299,
+      "needle_angle_deg": -134.031,
+      "reading": 0.0
+    },
+    "07:24:35": {
+      "confidence": 0.71109,
+      "needle_angle_deg": 130.146,
+      "reading": 49.939
+    },
+    "07:24:51": {
+      "confidence": 0.88954,
+      "needle_angle_deg": 119.03,
+      "reading": 58.438
     }
   }
 }
