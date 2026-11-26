@@ -1118660,5 +1118660,12 @@
       "needle_angle_deg": 0.0,
       "reading": 132.143
     }
+  },
+  "2026-11-26": {
+    "00:00:05": {
+      "confidence": 3.93465,
+      "needle_angle_deg": -62.355,
+      "reading": 161.0
+    }
   }
 }
